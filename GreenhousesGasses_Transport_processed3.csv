@@ -1,0 +1,2309 @@
+Country,POL,VAR,Pollutant,Year,Value,Emission Group
+Australia,GHG,TOTAL,Greenhouse gases,1990,424998.381,high
+Australia,GHG,TOTAL,Greenhouse gases,1991,426015.21,high
+Australia,GHG,TOTAL,Greenhouse gases,1992,430216.38,high
+Australia,GHG,TOTAL,Greenhouse gases,1993,430612.55600000004,high
+Australia,GHG,TOTAL,Greenhouse gases,1994,430653.33200000005,high
+Australia,GHG,TOTAL,Greenhouse gases,1995,439004.901,high
+Australia,GHG,TOTAL,Greenhouse gases,1996,446681.85,high
+Australia,GHG,TOTAL,Greenhouse gases,1997,458841.602,high
+Australia,GHG,TOTAL,Greenhouse gases,1998,472629.669,high
+Australia,GHG,TOTAL,Greenhouse gases,1999,478199.841,high
+Australia,GHG,TOTAL,Greenhouse gases,2000,489373.842,high
+Australia,GHG,TOTAL,Greenhouse gases,2001,496982.31,high
+Australia,GHG,TOTAL,Greenhouse gases,2002,500807.88899999997,high
+Australia,GHG,TOTAL,Greenhouse gases,2003,502301.775,high
+Australia,GHG,TOTAL,Greenhouse gases,2004,520315.18200000003,high
+Australia,GHG,TOTAL,Greenhouse gases,2005,526206.973,high
+Australia,GHG,TOTAL,Greenhouse gases,2006,530787.988,high
+Australia,GHG,TOTAL,Greenhouse gases,2007,536888.6020000001,high
+Australia,GHG,TOTAL,Greenhouse gases,2008,540669.0,high
+Australia,GHG,TOTAL,Greenhouse gases,2009,544285.462,high
+Australia,GHG,TOTAL,Greenhouse gases,2010,540571.41,high
+Australia,GHG,TOTAL,Greenhouse gases,2011,542511.918,high
+Australia,GHG,TOTAL,Greenhouse gases,2012,544732.756,high
+Australia,GHG,TOTAL,Greenhouse gases,2013,535006.814,high
+Australia,GHG,TOTAL,Greenhouse gases,2014,530411.0179999999,high
+Australia,GHG,TOTAL,Greenhouse gases,2015,538618.7760000001,high
+Australia,GHG,TOTAL,Greenhouse gases,2016,548862.546,high
+Australia,GHG,TOTAL,Greenhouse gases,2017,556612.265,high
+Australia,GHG,TOTAL,Greenhouse gases,2018,558047.22,high
+Australia,GHG,GHG_CAP,Greenhouse gases,1990,25.058000000000003,high
+Australia,GHG,GHG_CAP,Greenhouse gases,1991,24.784000000000002,high
+Australia,GHG,GHG_CAP,Greenhouse gases,1992,24.721999999999998,high
+Australia,GHG,GHG_CAP,Greenhouse gases,1993,24.462,high
+Australia,GHG,GHG_CAP,Greenhouse gases,1994,24.195999999999998,high
+Australia,GHG,GHG_CAP,Greenhouse gases,1995,24.399,high
+Australia,GHG,GHG_CAP,Greenhouse gases,1996,24.557,high
+Australia,GHG,GHG_CAP,Greenhouse gases,1997,24.954,high
+Australia,GHG,GHG_CAP,Greenhouse gases,1998,25.428,high
+Australia,GHG,GHG_CAP,Greenhouse gases,1999,25.451999999999998,high
+Australia,GHG,GHG_CAP,Greenhouse gases,2000,25.768,high
+Australia,GHG,GHG_CAP,Greenhouse gases,2001,25.892,high
+Australia,GHG,GHG_CAP,Greenhouse gases,2002,25.813000000000002,high
+Australia,GHG,GHG_CAP,Greenhouse gases,2003,25.596,high
+Australia,GHG,GHG_CAP,Greenhouse gases,2004,26.173000000000002,high
+Australia,GHG,GHG_CAP,Greenhouse gases,2005,26.078000000000003,high
+Australia,GHG,GHG_CAP,Greenhouse gases,2006,25.859,high
+Australia,GHG,GHG_CAP,Greenhouse gases,2007,25.668000000000003,high
+Australia,GHG,GHG_CAP,Greenhouse gases,2008,25.345,high
+Australia,GHG,GHG_CAP,Greenhouse gases,2009,25.024,high
+Australia,GHG,GHG_CAP,Greenhouse gases,2010,24.4,high
+Australia,GHG,GHG_CAP,Greenhouse gases,2011,24.070999999999998,high
+Australia,GHG,GHG_CAP,Greenhouse gases,2012,23.783,high
+Australia,GHG,GHG_CAP,Greenhouse gases,2013,23.006,high
+Australia,GHG,GHG_CAP,Greenhouse gases,2014,22.478,high
+Australia,GHG,GHG_CAP,Greenhouse gases,2015,22.506,high
+Australia,GHG,GHG_CAP,Greenhouse gases,2016,22.622,high
+Australia,GHG,GHG_CAP,Greenhouse gases,2017,22.641,high
+Australia,GHG,GHG_CAP,Greenhouse gases,2018,22.413,high
+Austria,GHG,TOTAL,Greenhouse gases,1990,78492.61200000001,high
+Austria,GHG,TOTAL,Greenhouse gases,1991,82157.13900000001,high
+Austria,GHG,TOTAL,Greenhouse gases,1992,75523.99799999999,high
+Austria,GHG,TOTAL,Greenhouse gases,1993,75771.054,high
+Austria,GHG,TOTAL,Greenhouse gases,1994,76016.828,high
+Austria,GHG,TOTAL,Greenhouse gases,1995,79382.99,high
+Austria,GHG,TOTAL,Greenhouse gases,1996,82605.495,high
+Austria,GHG,TOTAL,Greenhouse gases,1997,82175.95599999999,high
+Austria,GHG,TOTAL,Greenhouse gases,1998,81511.962,high
+Austria,GHG,TOTAL,Greenhouse gases,1999,79931.075,high
+Austria,GHG,TOTAL,Greenhouse gases,2000,80261.98700000001,high
+Austria,GHG,TOTAL,Greenhouse gases,2001,84151.509,high
+Austria,GHG,TOTAL,Greenhouse gases,2002,85906.916,high
+Austria,GHG,TOTAL,Greenhouse gases,2003,91545.23800000001,high
+Austria,GHG,TOTAL,Greenhouse gases,2004,91139.806,high
+Austria,GHG,TOTAL,Greenhouse gases,2005,92427.269,high
+Austria,GHG,TOTAL,Greenhouse gases,2006,90022.83,high
+Austria,GHG,TOTAL,Greenhouse gases,2007,87337.769,high
+Austria,GHG,TOTAL,Greenhouse gases,2008,86747.757,high
+Austria,GHG,TOTAL,Greenhouse gases,2009,80163.13,high
+Austria,GHG,TOTAL,Greenhouse gases,2010,84612.839,high
+Austria,GHG,TOTAL,Greenhouse gases,2011,82286.887,high
+Austria,GHG,TOTAL,Greenhouse gases,2012,79528.787,high
+Austria,GHG,TOTAL,Greenhouse gases,2013,79971.975,high
+Austria,GHG,TOTAL,Greenhouse gases,2014,76346.007,high
+Austria,GHG,TOTAL,Greenhouse gases,2015,78509.783,high
+Austria,GHG,TOTAL,Greenhouse gases,2016,79467.291,high
+Austria,GHG,TOTAL,Greenhouse gases,2017,82023.358,high
+Austria,GHG,TOTAL,Greenhouse gases,2018,78950.336,high
+Austria,GHG,GHG_CAP,Greenhouse gases,1990,10.162,medium
+Austria,GHG,GHG_CAP,Greenhouse gases,1991,10.57,medium
+Austria,GHG,GHG_CAP,Greenhouse gases,1992,9.644,low
+Austria,GHG,GHG_CAP,Greenhouse gases,1993,9.601,low
+Austria,GHG,GHG_CAP,Greenhouse gases,1994,9.565,low
+Austria,GHG,GHG_CAP,Greenhouse gases,1995,9.935,low
+Austria,GHG,GHG_CAP,Greenhouse gases,1996,10.302999999999999,medium
+Austria,GHG,GHG_CAP,Greenhouse gases,1997,10.23,medium
+Austria,GHG,GHG_CAP,Greenhouse gases,1998,10.137,medium
+Austria,GHG,GHG_CAP,Greenhouse gases,1999,9.927999999999999,low
+Austria,GHG,GHG_CAP,Greenhouse gases,2000,9.947000000000001,low
+Austria,GHG,GHG_CAP,Greenhouse gases,2001,10.392000000000001,medium
+Austria,GHG,GHG_CAP,Greenhouse gases,2002,10.561,medium
+Austria,GHG,GHG_CAP,Greenhouse gases,2003,11.197000000000001,medium
+Austria,GHG,GHG_CAP,Greenhouse gases,2004,11.092,medium
+Austria,GHG,GHG_CAP,Greenhouse gases,2005,11.198,medium
+Austria,GHG,GHG_CAP,Greenhouse gases,2006,10.865,medium
+Austria,GHG,GHG_CAP,Greenhouse gases,2007,10.505,medium
+Austria,GHG,GHG_CAP,Greenhouse gases,2008,10.399000000000001,medium
+Austria,GHG,GHG_CAP,Greenhouse gases,2009,9.574,low
+Austria,GHG,GHG_CAP,Greenhouse gases,2010,10.061,medium
+Austria,GHG,GHG_CAP,Greenhouse gases,2011,9.734,low
+Austria,GHG,GHG_CAP,Greenhouse gases,2012,9.354,low
+Austria,GHG,GHG_CAP,Greenhouse gases,2013,9.347000000000001,low
+Austria,GHG,GHG_CAP,Greenhouse gases,2014,8.862,low
+Austria,GHG,GHG_CAP,Greenhouse gases,2015,9.046,low
+Austria,GHG,GHG_CAP,Greenhouse gases,2016,9.085,low
+Austria,GHG,GHG_CAP,Greenhouse gases,2017,9.3,low
+Austria,GHG,GHG_CAP,Greenhouse gases,2018,8.879,low
+Belgium,GHG,TOTAL,Greenhouse gases,1990,146410.75699999998,high
+Belgium,GHG,TOTAL,Greenhouse gases,1991,149137.37,high
+Belgium,GHG,TOTAL,Greenhouse gases,1992,148737.284,high
+Belgium,GHG,TOTAL,Greenhouse gases,1993,147741.144,high
+Belgium,GHG,TOTAL,Greenhouse gases,1994,152361.114,high
+Belgium,GHG,TOTAL,Greenhouse gases,1995,154495.964,high
+Belgium,GHG,TOTAL,Greenhouse gases,1996,158184.69400000002,high
+Belgium,GHG,TOTAL,Greenhouse gases,1997,149720.793,high
+Belgium,GHG,TOTAL,Greenhouse gases,1998,154897.827,high
+Belgium,GHG,TOTAL,Greenhouse gases,1999,148647.755,high
+Belgium,GHG,TOTAL,Greenhouse gases,2000,149704.63199999998,high
+Belgium,GHG,TOTAL,Greenhouse gases,2001,148114.454,high
+Belgium,GHG,TOTAL,Greenhouse gases,2002,148157.106,high
+Belgium,GHG,TOTAL,Greenhouse gases,2003,148419.332,high
+Belgium,GHG,TOTAL,Greenhouse gases,2004,149273.601,high
+Belgium,GHG,TOTAL,Greenhouse gases,2005,146251.988,high
+Belgium,GHG,TOTAL,Greenhouse gases,2006,143391.884,high
+Belgium,GHG,TOTAL,Greenhouse gases,2007,139789.969,high
+Belgium,GHG,TOTAL,Greenhouse gases,2008,139699.335,high
+Belgium,GHG,TOTAL,Greenhouse gases,2009,127051.67599999999,high
+Belgium,GHG,TOTAL,Greenhouse gases,2010,134315.855,high
+Belgium,GHG,TOTAL,Greenhouse gases,2011,123782.51199999999,high
+Belgium,GHG,TOTAL,Greenhouse gases,2012,120922.504,high
+Belgium,GHG,TOTAL,Greenhouse gases,2013,120949.314,high
+Belgium,GHG,TOTAL,Greenhouse gases,2014,115215.773,high
+Belgium,GHG,TOTAL,Greenhouse gases,2015,119418.394,high
+Belgium,GHG,TOTAL,Greenhouse gases,2016,118172.436,high
+Belgium,GHG,TOTAL,Greenhouse gases,2017,118005.105,high
+Belgium,GHG,TOTAL,Greenhouse gases,2018,118455.73800000001,high
+Belgium,GHG,GHG_CAP,Greenhouse gases,1990,14.632,medium
+Belgium,GHG,GHG_CAP,Greenhouse gases,1991,14.855,medium
+Belgium,GHG,GHG_CAP,Greenhouse gases,1992,14.758,medium
+Belgium,GHG,GHG_CAP,Greenhouse gases,1993,14.600999999999999,medium
+Belgium,GHG,GHG_CAP,Greenhouse gases,1994,15.002,medium
+Belgium,GHG,GHG_CAP,Greenhouse gases,1995,15.167,medium
+Belgium,GHG,GHG_CAP,Greenhouse gases,1996,15.495999999999999,medium
+Belgium,GHG,GHG_CAP,Greenhouse gases,1997,14.644,medium
+Belgium,GHG,GHG_CAP,Greenhouse gases,1998,15.130999999999998,medium
+Belgium,GHG,GHG_CAP,Greenhouse gases,1999,14.495,medium
+Belgium,GHG,GHG_CAP,Greenhouse gases,2000,14.56,medium
+Belgium,GHG,GHG_CAP,Greenhouse gases,2001,14.354000000000001,medium
+Belgium,GHG,GHG_CAP,Greenhouse gases,2002,14.294,medium
+Belgium,GHG,GHG_CAP,Greenhouse gases,2003,14.245,medium
+Belgium,GHG,GHG_CAP,Greenhouse gases,2004,14.244000000000002,medium
+Belgium,GHG,GHG_CAP,Greenhouse gases,2005,13.867,medium
+Belgium,GHG,GHG_CAP,Greenhouse gases,2006,13.503,medium
+Belgium,GHG,GHG_CAP,Greenhouse gases,2007,13.067,medium
+Belgium,GHG,GHG_CAP,Greenhouse gases,2008,12.960999999999999,medium
+Belgium,GHG,GHG_CAP,Greenhouse gases,2009,11.699000000000002,medium
+Belgium,GHG,GHG_CAP,Greenhouse gases,2010,12.279000000000002,medium
+Belgium,GHG,GHG_CAP,Greenhouse gases,2011,11.239,medium
+Belgium,GHG,GHG_CAP,Greenhouse gases,2012,10.908,medium
+Belgium,GHG,GHG_CAP,Greenhouse gases,2013,10.844000000000001,medium
+Belgium,GHG,GHG_CAP,Greenhouse gases,2014,10.267999999999999,medium
+Belgium,GHG,GHG_CAP,Greenhouse gases,2015,10.579,medium
+Belgium,GHG,GHG_CAP,Greenhouse gases,2016,10.408,medium
+Belgium,GHG,GHG_CAP,Greenhouse gases,2017,10.333,medium
+Belgium,GHG,GHG_CAP,Greenhouse gases,2018,10.315999999999999,medium
+Canada,GHG,TOTAL,Greenhouse gases,1990,603221.8670000001,high
+Canada,GHG,TOTAL,Greenhouse gases,1991,594872.9820000001,high
+Canada,GHG,TOTAL,Greenhouse gases,1992,612470.509,high
+Canada,GHG,TOTAL,Greenhouse gases,1993,615048.5079999999,high
+Canada,GHG,TOTAL,Greenhouse gases,1994,636374.334,high
+Canada,GHG,TOTAL,Greenhouse gases,1995,653057.975,high
+Canada,GHG,TOTAL,Greenhouse gases,1996,674575.2159999999,high
+Canada,GHG,TOTAL,Greenhouse gases,1997,686114.6259999999,high
+Canada,GHG,TOTAL,Greenhouse gases,1998,693059.0759999999,high
+Canada,GHG,TOTAL,Greenhouse gases,1999,707363.766,high
+Canada,GHG,TOTAL,Greenhouse gases,2000,730681.594,high
+Canada,GHG,TOTAL,Greenhouse gases,2001,719697.167,high
+Canada,GHG,TOTAL,Greenhouse gases,2002,723948.359,high
+Canada,GHG,TOTAL,Greenhouse gases,2003,740245.805,high
+Canada,GHG,TOTAL,Greenhouse gases,2004,741584.48,high
+Canada,GHG,TOTAL,Greenhouse gases,2005,729747.166,high
+Canada,GHG,TOTAL,Greenhouse gases,2006,720516.109,high
+Canada,GHG,TOTAL,Greenhouse gases,2007,742313.663,high
+Canada,GHG,TOTAL,Greenhouse gases,2008,722567.97,high
+Canada,GHG,TOTAL,Greenhouse gases,2009,680493.571,high
+Canada,GHG,TOTAL,Greenhouse gases,2010,690530.6170000001,high
+Canada,GHG,TOTAL,Greenhouse gases,2011,702412.979,high
+Canada,GHG,TOTAL,Greenhouse gases,2012,710108.297,high
+Canada,GHG,TOTAL,Greenhouse gases,2013,720877.454,high
+Canada,GHG,TOTAL,Greenhouse gases,2014,721353.745,high
+Canada,GHG,TOTAL,Greenhouse gases,2015,720380.179,high
+Canada,GHG,TOTAL,Greenhouse gases,2016,706196.4140000001,high
+Canada,GHG,TOTAL,Greenhouse gases,2017,713838.207,high
+Canada,GHG,TOTAL,Greenhouse gases,2018,729349.27,high
+Canada,GHG,GHG_CAP,Greenhouse gases,1990,21.901999999999997,high
+Canada,GHG,GHG_CAP,Greenhouse gases,1991,21.33,high
+Canada,GHG,GHG_CAP,Greenhouse gases,1992,21.7,high
+Canada,GHG,GHG_CAP,Greenhouse gases,1993,21.544,high
+Canada,GHG,GHG_CAP,Greenhouse gases,1994,22.05,high
+Canada,GHG,GHG_CAP,Greenhouse gases,1995,22.392,high
+Canada,GHG,GHG_CAP,Greenhouse gases,1996,22.9,high
+Canada,GHG,GHG_CAP,Greenhouse gases,1997,23.069000000000003,high
+Canada,GHG,GHG_CAP,Greenhouse gases,1998,23.085,high
+Canada,GHG,GHG_CAP,Greenhouse gases,1999,23.343000000000004,high
+Canada,GHG,GHG_CAP,Greenhouse gases,2000,23.888,high
+Canada,GHG,GHG_CAP,Greenhouse gases,2001,23.305999999999997,high
+Canada,GHG,GHG_CAP,Greenhouse gases,2002,23.22,high
+Canada,GHG,GHG_CAP,Greenhouse gases,2003,23.509,high
+Canada,GHG,GHG_CAP,Greenhouse gases,2004,23.309,high
+Canada,GHG,GHG_CAP,Greenhouse gases,2005,22.688000000000002,high
+Canada,GHG,GHG_CAP,Greenhouse gases,2006,22.145,high
+Canada,GHG,GHG_CAP,Greenhouse gases,2007,22.541999999999998,high
+Canada,GHG,GHG_CAP,Greenhouse gases,2008,21.674,high
+Canada,GHG,GHG_CAP,Greenhouse gases,2009,20.165,high
+Canada,GHG,GHG_CAP,Greenhouse gases,2010,20.222,high
+Canada,GHG,GHG_CAP,Greenhouse gases,2011,20.337,high
+Canada,GHG,GHG_CAP,Greenhouse gases,2012,20.334,high
+Canada,GHG,GHG_CAP,Greenhouse gases,2013,20.423,high
+Canada,GHG,GHG_CAP,Greenhouse gases,2014,20.226,high
+Canada,GHG,GHG_CAP,Greenhouse gases,2015,19.996,high
+Canada,GHG,GHG_CAP,Greenhouse gases,2016,19.41,high
+Canada,GHG,GHG_CAP,Greenhouse gases,2017,19.434,high
+Canada,GHG,GHG_CAP,Greenhouse gases,2018,19.672,high
+Czech Republic,GHG,TOTAL,Greenhouse gases,1990,197202.548,high
+Czech Republic,GHG,TOTAL,Greenhouse gases,1991,178986.518,high
+Czech Republic,GHG,TOTAL,Greenhouse gases,1992,172533.926,high
+Czech Republic,GHG,TOTAL,Greenhouse gases,1993,164898.959,high
+Czech Republic,GHG,TOTAL,Greenhouse gases,1994,157406.668,high
+Czech Republic,GHG,TOTAL,Greenhouse gases,1995,156526.029,high
+Czech Republic,GHG,TOTAL,Greenhouse gases,1996,159559.048,high
+Czech Republic,GHG,TOTAL,Greenhouse gases,1997,154994.173,high
+Czech Republic,GHG,TOTAL,Greenhouse gases,1998,148844.488,high
+Czech Republic,GHG,TOTAL,Greenhouse gases,1999,139281.756,high
+Czech Republic,GHG,TOTAL,Greenhouse gases,2000,149457.61,high
+Czech Republic,GHG,TOTAL,Greenhouse gases,2001,149497.285,high
+Czech Republic,GHG,TOTAL,Greenhouse gases,2002,145776.804,high
+Czech Republic,GHG,TOTAL,Greenhouse gases,2003,148967.356,high
+Czech Republic,GHG,TOTAL,Greenhouse gases,2004,150048.22,high
+Czech Republic,GHG,TOTAL,Greenhouse gases,2005,147905.905,high
+Czech Republic,GHG,TOTAL,Greenhouse gases,2006,149080.894,high
+Czech Republic,GHG,TOTAL,Greenhouse gases,2007,150918.178,high
+Czech Republic,GHG,TOTAL,Greenhouse gases,2008,146084.374,high
+Czech Republic,GHG,TOTAL,Greenhouse gases,2009,137219.22199999998,high
+Czech Republic,GHG,TOTAL,Greenhouse gases,2010,139900.211,high
+Czech Republic,GHG,TOTAL,Greenhouse gases,2011,138359.073,high
+Czech Republic,GHG,TOTAL,Greenhouse gases,2012,134202.233,high
+Czech Republic,GHG,TOTAL,Greenhouse gases,2013,128984.257,high
+Czech Republic,GHG,TOTAL,Greenhouse gases,2014,126856.681,high
+Czech Republic,GHG,TOTAL,Greenhouse gases,2015,128303.745,high
+Czech Republic,GHG,TOTAL,Greenhouse gases,2016,130134.215,high
+Czech Republic,GHG,TOTAL,Greenhouse gases,2017,129059.002,high
+Czech Republic,GHG,TOTAL,Greenhouse gases,2018,127449.595,high
+Czech Republic,GHG,GHG_CAP,Greenhouse gases,1990,19.07,high
+Czech Republic,GHG,GHG_CAP,Greenhouse gases,1991,17.299,high
+Czech Republic,GHG,GHG_CAP,Greenhouse gases,1992,16.665,high
+Czech Republic,GHG,GHG_CAP,Greenhouse gases,1993,15.919,medium
+Czech Republic,GHG,GHG_CAP,Greenhouse gases,1994,15.192,medium
+Czech Republic,GHG,GHG_CAP,Greenhouse gases,1995,15.110999999999999,medium
+Czech Republic,GHG,GHG_CAP,Greenhouse gases,1996,15.415999999999999,medium
+Czech Republic,GHG,GHG_CAP,Greenhouse gases,1997,14.992,medium
+Czech Republic,GHG,GHG_CAP,Greenhouse gases,1998,14.418,medium
+Czech Republic,GHG,GHG_CAP,Greenhouse gases,1999,13.514000000000001,medium
+Czech Republic,GHG,GHG_CAP,Greenhouse gases,2000,14.525,medium
+Czech Republic,GHG,GHG_CAP,Greenhouse gases,2001,14.555,medium
+Czech Republic,GHG,GHG_CAP,Greenhouse gases,2002,14.219000000000001,medium
+Czech Republic,GHG,GHG_CAP,Greenhouse gases,2003,14.549000000000001,medium
+Czech Republic,GHG,GHG_CAP,Greenhouse gases,2004,14.654000000000002,medium
+Czech Republic,GHG,GHG_CAP,Greenhouse gases,2005,14.418,medium
+Czech Republic,GHG,GHG_CAP,Greenhouse gases,2006,14.475999999999999,medium
+Czech Republic,GHG,GHG_CAP,Greenhouse gases,2007,14.571,medium
+Czech Republic,GHG,GHG_CAP,Greenhouse gases,2008,14.013,medium
+Czech Republic,GHG,GHG_CAP,Greenhouse gases,2009,13.083,medium
+Czech Republic,GHG,GHG_CAP,Greenhouse gases,2010,13.277999999999999,medium
+Czech Republic,GHG,GHG_CAP,Greenhouse gases,2011,13.094000000000001,medium
+Czech Republic,GHG,GHG_CAP,Greenhouse gases,2012,12.683,medium
+Czech Republic,GHG,GHG_CAP,Greenhouse gases,2013,12.184000000000001,medium
+Czech Republic,GHG,GHG_CAP,Greenhouse gases,2014,11.978,medium
+Czech Republic,GHG,GHG_CAP,Greenhouse gases,2015,12.103,medium
+Czech Republic,GHG,GHG_CAP,Greenhouse gases,2016,12.255,medium
+Czech Republic,GHG,GHG_CAP,Greenhouse gases,2017,12.128,medium
+Czech Republic,GHG,GHG_CAP,Greenhouse gases,2018,11.95,medium
+Denmark,GHG,TOTAL,Greenhouse gases,1990,71000.02,high
+Denmark,GHG,TOTAL,Greenhouse gases,1991,81630.673,high
+Denmark,GHG,TOTAL,Greenhouse gases,1992,75643.54,high
+Denmark,GHG,TOTAL,Greenhouse gases,1993,77804.113,high
+Denmark,GHG,TOTAL,Greenhouse gases,1994,81684.719,high
+Denmark,GHG,TOTAL,Greenhouse gases,1995,78731.964,high
+Denmark,GHG,TOTAL,Greenhouse gases,1996,91922.97099999999,high
+Denmark,GHG,TOTAL,Greenhouse gases,1997,82464.937,high
+Denmark,GHG,TOTAL,Greenhouse gases,1998,78486.885,high
+Denmark,GHG,TOTAL,Greenhouse gases,1999,76046.629,high
+Denmark,GHG,TOTAL,Greenhouse gases,2000,71773.412,high
+Denmark,GHG,TOTAL,Greenhouse gases,2001,73508.238,high
+Denmark,GHG,TOTAL,Greenhouse gases,2002,72974.277,high
+Denmark,GHG,TOTAL,Greenhouse gases,2003,78060.173,high
+Denmark,GHG,TOTAL,Greenhouse gases,2004,71947.75,high
+Denmark,GHG,TOTAL,Greenhouse gases,2005,67541.341,high
+Denmark,GHG,TOTAL,Greenhouse gases,2006,75268.338,high
+Denmark,GHG,TOTAL,Greenhouse gases,2007,70696.823,high
+Denmark,GHG,TOTAL,Greenhouse gases,2008,67108.812,high
+Denmark,GHG,TOTAL,Greenhouse gases,2009,64354.795,high
+Denmark,GHG,TOTAL,Greenhouse gases,2010,64654.773,high
+Denmark,GHG,TOTAL,Greenhouse gases,2011,59421.502,high
+Denmark,GHG,TOTAL,Greenhouse gases,2012,54837.719000000005,high
+Denmark,GHG,TOTAL,Greenhouse gases,2013,56561.60400000001,high
+Denmark,GHG,TOTAL,Greenhouse gases,2014,52361.361,high
+Denmark,GHG,TOTAL,Greenhouse gases,2015,49742.087,high
+Denmark,GHG,TOTAL,Greenhouse gases,2016,51798.272000000004,high
+Denmark,GHG,TOTAL,Greenhouse gases,2017,49678.024000000005,high
+Denmark,GHG,TOTAL,Greenhouse gases,2018,49694.483,high
+Denmark,GHG,GHG_CAP,Greenhouse gases,1990,13.81,medium
+Denmark,GHG,GHG_CAP,Greenhouse gases,1991,15.835999999999999,medium
+Denmark,GHG,GHG_CAP,Greenhouse gases,1992,14.627,medium
+Denmark,GHG,GHG_CAP,Greenhouse gases,1993,14.989,medium
+Denmark,GHG,GHG_CAP,Greenhouse gases,1994,15.674000000000001,medium
+Denmark,GHG,GHG_CAP,Greenhouse gases,1995,15.046,medium
+Denmark,GHG,GHG_CAP,Greenhouse gases,1996,17.493,high
+Denmark,GHG,GHG_CAP,Greenhouse gases,1997,15.625,medium
+Denmark,GHG,GHG_CAP,Greenhouse gases,1998,14.808,medium
+Denmark,GHG,GHG_CAP,Greenhouse gases,1999,14.29,medium
+Denmark,GHG,GHG_CAP,Greenhouse gases,2000,13.437999999999999,medium
+Denmark,GHG,GHG_CAP,Greenhouse gases,2001,13.719000000000001,medium
+Denmark,GHG,GHG_CAP,Greenhouse gases,2002,13.582,medium
+Denmark,GHG,GHG_CAP,Greenhouse gases,2003,14.491,medium
+Denmark,GHG,GHG_CAP,Greenhouse gases,2004,13.317,medium
+Denmark,GHG,GHG_CAP,Greenhouse gases,2005,12.458,medium
+Denmark,GHG,GHG_CAP,Greenhouse gases,2006,13.825,medium
+Denmark,GHG,GHG_CAP,Greenhouse gases,2007,12.925,medium
+Denmark,GHG,GHG_CAP,Greenhouse gases,2008,12.207,medium
+Denmark,GHG,GHG_CAP,Greenhouse gases,2009,11.645,medium
+Denmark,GHG,GHG_CAP,Greenhouse gases,2010,11.639000000000001,medium
+Denmark,GHG,GHG_CAP,Greenhouse gases,2011,10.642999999999999,medium
+Denmark,GHG,GHG_CAP,Greenhouse gases,2012,9.773,low
+Denmark,GHG,GHG_CAP,Greenhouse gases,2013,10.032,medium
+Denmark,GHG,GHG_CAP,Greenhouse gases,2014,9.244,low
+Denmark,GHG,GHG_CAP,Greenhouse gases,2015,8.744,low
+Denmark,GHG,GHG_CAP,Greenhouse gases,2016,9.068999999999999,low
+Denmark,GHG,GHG_CAP,Greenhouse gases,2017,8.666,low
+Denmark,GHG,GHG_CAP,Greenhouse gases,2018,8.639,low
+Finland,GHG,TOTAL,Greenhouse gases,1990,71065.26400000001,high
+Finland,GHG,TOTAL,Greenhouse gases,1991,68854.17,high
+Finland,GHG,TOTAL,Greenhouse gases,1992,67416.607,high
+Finland,GHG,TOTAL,Greenhouse gases,1993,69684.057,high
+Finland,GHG,TOTAL,Greenhouse gases,1994,75215.367,high
+Finland,GHG,TOTAL,Greenhouse gases,1995,71656.558,high
+Finland,GHG,TOTAL,Greenhouse gases,1996,77633.326,high
+Finland,GHG,TOTAL,Greenhouse gases,1997,76321.115,high
+Finland,GHG,TOTAL,Greenhouse gases,1998,72626.355,high
+Finland,GHG,TOTAL,Greenhouse gases,1999,72016.774,high
+Finland,GHG,TOTAL,Greenhouse gases,2000,70145.34599999999,high
+Finland,GHG,TOTAL,Greenhouse gases,2001,75475.58,high
+Finland,GHG,TOTAL,Greenhouse gases,2002,77909.23599999999,high
+Finland,GHG,TOTAL,Greenhouse gases,2003,85532.07400000001,high
+Finland,GHG,TOTAL,Greenhouse gases,2004,81839.006,high
+Finland,GHG,TOTAL,Greenhouse gases,2005,69837.076,high
+Finland,GHG,TOTAL,Greenhouse gases,2006,81207.896,high
+Finland,GHG,TOTAL,Greenhouse gases,2007,79544.79,high
+Finland,GHG,TOTAL,Greenhouse gases,2008,71452.383,high
+Finland,GHG,TOTAL,Greenhouse gases,2009,67834.7,high
+Finland,GHG,TOTAL,Greenhouse gases,2010,75649.745,high
+Finland,GHG,TOTAL,Greenhouse gases,2011,67899.405,high
+Finland,GHG,TOTAL,Greenhouse gases,2012,62419.239,high
+Finland,GHG,TOTAL,Greenhouse gases,2013,62856.36,high
+Finland,GHG,TOTAL,Greenhouse gases,2014,58700.073,high
+Finland,GHG,TOTAL,Greenhouse gases,2015,55086.25,high
+Finland,GHG,TOTAL,Greenhouse gases,2016,58039.642,high
+Finland,GHG,TOTAL,Greenhouse gases,2017,55336.721,high
+Finland,GHG,TOTAL,Greenhouse gases,2018,56359.068,high
+Finland,GHG,GHG_CAP,Greenhouse gases,1990,14.224,medium
+Finland,GHG,GHG_CAP,Greenhouse gases,1991,13.718,medium
+Finland,GHG,GHG_CAP,Greenhouse gases,1992,13.363,medium
+Finland,GHG,GHG_CAP,Greenhouse gases,1993,13.74,medium
+Finland,GHG,GHG_CAP,Greenhouse gases,1994,14.757,medium
+Finland,GHG,GHG_CAP,Greenhouse gases,1995,13.998,medium
+Finland,GHG,GHG_CAP,Greenhouse gases,1996,15.113,medium
+Finland,GHG,GHG_CAP,Greenhouse gases,1997,14.815,medium
+Finland,GHG,GHG_CAP,Greenhouse gases,1998,14.062999999999999,medium
+Finland,GHG,GHG_CAP,Greenhouse gases,1999,13.914000000000001,medium
+Finland,GHG,GHG_CAP,Greenhouse gases,2000,13.520999999999999,medium
+Finland,GHG,GHG_CAP,Greenhouse gases,2001,14.513,medium
+Finland,GHG,GHG_CAP,Greenhouse gases,2002,14.944,medium
+Finland,GHG,GHG_CAP,Greenhouse gases,2003,16.363,high
+Finland,GHG,GHG_CAP,Greenhouse gases,2004,15.612,medium
+Finland,GHG,GHG_CAP,Greenhouse gases,2005,13.28,medium
+Finland,GHG,GHG_CAP,Greenhouse gases,2006,15.388,medium
+Finland,GHG,GHG_CAP,Greenhouse gases,2007,15.015,medium
+Finland,GHG,GHG_CAP,Greenhouse gases,2008,13.432,medium
+Finland,GHG,GHG_CAP,Greenhouse gases,2009,12.698,medium
+Finland,GHG,GHG_CAP,Greenhouse gases,2010,14.099,medium
+Finland,GHG,GHG_CAP,Greenhouse gases,2011,12.597000000000001,medium
+Finland,GHG,GHG_CAP,Greenhouse gases,2012,11.527999999999999,medium
+Finland,GHG,GHG_CAP,Greenhouse gases,2013,11.557,medium
+Finland,GHG,GHG_CAP,Greenhouse gases,2014,10.748,medium
+Finland,GHG,GHG_CAP,Greenhouse gases,2015,10.05,medium
+Finland,GHG,GHG_CAP,Greenhouse gases,2016,10.557,medium
+Finland,GHG,GHG_CAP,Greenhouse gases,2017,10.04,medium
+Finland,GHG,GHG_CAP,Greenhouse gases,2018,10.205,medium
+France,GHG,TOTAL,Greenhouse gases,1990,551404.7779999999,high
+France,GHG,TOTAL,Greenhouse gases,1991,578699.475,high
+France,GHG,TOTAL,Greenhouse gases,1992,566925.42,high
+France,GHG,TOTAL,Greenhouse gases,1993,544411.4739999999,high
+France,GHG,TOTAL,Greenhouse gases,1994,538971.267,high
+France,GHG,TOTAL,Greenhouse gases,1995,546666.8620000001,high
+France,GHG,TOTAL,Greenhouse gases,1996,564234.8539999999,high
+France,GHG,TOTAL,Greenhouse gases,1997,557026.921,high
+France,GHG,TOTAL,Greenhouse gases,1998,570706.96,high
+France,GHG,TOTAL,Greenhouse gases,1999,562824.235,high
+France,GHG,TOTAL,Greenhouse gases,2000,556689.805,high
+France,GHG,TOTAL,Greenhouse gases,2001,561632.97,high
+France,GHG,TOTAL,Greenhouse gases,2002,555016.015,high
+France,GHG,TOTAL,Greenhouse gases,2003,559892.552,high
+France,GHG,TOTAL,Greenhouse gases,2004,558006.762,high
+France,GHG,TOTAL,Greenhouse gases,2005,559561.38,high
+France,GHG,TOTAL,Greenhouse gases,2006,547350.924,high
+France,GHG,TOTAL,Greenhouse gases,2007,536920.91,high
+France,GHG,TOTAL,Greenhouse gases,2008,529131.493,high
+France,GHG,TOTAL,Greenhouse gases,2009,510222.31,high
+France,GHG,TOTAL,Greenhouse gases,2010,516993.58700000006,high
+France,GHG,TOTAL,Greenhouse gases,2011,488626.078,high
+France,GHG,TOTAL,Greenhouse gases,2012,489044.205,high
+France,GHG,TOTAL,Greenhouse gases,2013,490340.66799999995,high
+France,GHG,TOTAL,Greenhouse gases,2014,460180.56299999997,high
+France,GHG,TOTAL,Greenhouse gases,2015,464049.06299999997,high
+France,GHG,TOTAL,Greenhouse gases,2016,465667.51700000005,high
+France,GHG,TOTAL,Greenhouse gases,2017,470593.196,high
+France,GHG,TOTAL,Greenhouse gases,2018,452209.684,high
+France,GHG,GHG_CAP,Greenhouse gases,1990,9.731,low
+France,GHG,GHG_CAP,Greenhouse gases,1991,10.168,medium
+France,GHG,GHG_CAP,Greenhouse gases,1992,9.92,low
+France,GHG,GHG_CAP,Greenhouse gases,1993,9.488999999999999,low
+France,GHG,GHG_CAP,Greenhouse gases,1994,9.359,low
+France,GHG,GHG_CAP,Greenhouse gases,1995,9.458,low
+France,GHG,GHG_CAP,Greenhouse gases,1996,9.726,low
+France,GHG,GHG_CAP,Greenhouse gases,1997,9.568,low
+France,GHG,GHG_CAP,Greenhouse gases,1998,9.765,low
+France,GHG,GHG_CAP,Greenhouse gases,1999,9.587,low
+France,GHG,GHG_CAP,Greenhouse gases,2000,9.433,low
+France,GHG,GHG_CAP,Greenhouse gases,2001,9.458,low
+France,GHG,GHG_CAP,Greenhouse gases,2002,9.281,low
+France,GHG,GHG_CAP,Greenhouse gases,2003,9.293,low
+France,GHG,GHG_CAP,Greenhouse gases,2004,9.193,low
+France,GHG,GHG_CAP,Greenhouse gases,2005,9.155,low
+France,GHG,GHG_CAP,Greenhouse gases,2006,8.899,low
+France,GHG,GHG_CAP,Greenhouse gases,2007,8.677999999999999,low
+France,GHG,GHG_CAP,Greenhouse gases,2008,8.506,low
+France,GHG,GHG_CAP,Greenhouse gases,2009,8.158,low
+France,GHG,GHG_CAP,Greenhouse gases,2010,8.222000000000001,low
+France,GHG,GHG_CAP,Greenhouse gases,2011,7.729,low
+France,GHG,GHG_CAP,Greenhouse gases,2012,7.694,low
+France,GHG,GHG_CAP,Greenhouse gases,2013,7.6739999999999995,low
+France,GHG,GHG_CAP,Greenhouse gases,2014,7.169,low
+France,GHG,GHG_CAP,Greenhouse gases,2015,7.2,low
+France,GHG,GHG_CAP,Greenhouse gases,2016,7.2010000000000005,low
+France,GHG,GHG_CAP,Greenhouse gases,2017,7.257000000000001,low
+France,GHG,GHG_CAP,Greenhouse gases,2018,6.957999999999999,low
+Germany,GHG,TOTAL,Greenhouse gases,1990,1249458.562,high
+Germany,GHG,TOTAL,Greenhouse gases,1991,1202408.48,high
+Germany,GHG,TOTAL,Greenhouse gases,1992,1152233.119,high
+Germany,GHG,TOTAL,Greenhouse gases,1993,1143321.085,high
+Germany,GHG,TOTAL,Greenhouse gases,1994,1124269.237,high
+Germany,GHG,TOTAL,Greenhouse gases,1995,1121370.235,high
+Germany,GHG,TOTAL,Greenhouse gases,1996,1139309.798,high
+Germany,GHG,TOTAL,Greenhouse gases,1997,1104200.139,high
+Germany,GHG,TOTAL,Greenhouse gases,1998,1078910.257,high
+Germany,GHG,TOTAL,Greenhouse gases,1999,1045140.615,high
+Germany,GHG,TOTAL,Greenhouse gases,2000,1043426.3879999999,high
+Germany,GHG,TOTAL,Greenhouse gases,2001,1058627.881,high
+Germany,GHG,TOTAL,Greenhouse gases,2002,1037293.207,high
+Germany,GHG,TOTAL,Greenhouse gases,2003,1034945.7259999999,high
+Germany,GHG,TOTAL,Greenhouse gases,2004,1018676.23,high
+Germany,GHG,TOTAL,Greenhouse gases,2005,993198.747,high
+Germany,GHG,TOTAL,Greenhouse gases,2006,1000519.902,high
+Germany,GHG,TOTAL,Greenhouse gases,2007,973838.743,high
+Germany,GHG,TOTAL,Greenhouse gases,2008,976672.1540000001,high
+Germany,GHG,TOTAL,Greenhouse gases,2009,909260.1429999999,high
+Germany,GHG,TOTAL,Greenhouse gases,2010,942337.998,high
+Germany,GHG,TOTAL,Greenhouse gases,2011,919434.652,high
+Germany,GHG,TOTAL,Greenhouse gases,2012,924147.411,high
+Germany,GHG,TOTAL,Greenhouse gases,2013,941570.26,high
+Germany,GHG,TOTAL,Greenhouse gases,2014,902388.7409999999,high
+Germany,GHG,TOTAL,Greenhouse gases,2015,906320.05,high
+Germany,GHG,TOTAL,Greenhouse gases,2016,909052.468,high
+Germany,GHG,TOTAL,Greenhouse gases,2017,894296.2790000001,high
+Germany,GHG,TOTAL,Greenhouse gases,2018,858368.679,high
+Germany,GHG,GHG_CAP,Greenhouse gases,1990,15.805,medium
+Germany,GHG,GHG_CAP,Greenhouse gases,1991,15.126,medium
+Germany,GHG,GHG_CAP,Greenhouse gases,1992,14.41,medium
+Germany,GHG,GHG_CAP,Greenhouse gases,1993,14.215,medium
+Germany,GHG,GHG_CAP,Greenhouse gases,1994,13.909,medium
+Germany,GHG,GHG_CAP,Greenhouse gases,1995,13.82,medium
+Germany,GHG,GHG_CAP,Greenhouse gases,1996,14.01,medium
+Germany,GHG,GHG_CAP,Greenhouse gases,1997,13.565,medium
+Germany,GHG,GHG_CAP,Greenhouse gases,1998,13.254000000000001,medium
+Germany,GHG,GHG_CAP,Greenhouse gases,1999,12.841,medium
+Germany,GHG,GHG_CAP,Greenhouse gases,2000,12.818,medium
+Germany,GHG,GHG_CAP,Greenhouse gases,2001,12.997,medium
+Germany,GHG,GHG_CAP,Greenhouse gases,2002,12.722000000000001,medium
+Germany,GHG,GHG_CAP,Greenhouse gases,2003,12.681,medium
+Germany,GHG,GHG_CAP,Greenhouse gases,2004,12.477,medium
+Germany,GHG,GHG_CAP,Greenhouse gases,2005,12.171,medium
+Germany,GHG,GHG_CAP,Greenhouse gases,2006,12.280999999999999,medium
+Germany,GHG,GHG_CAP,Greenhouse gases,2007,11.982000000000001,medium
+Germany,GHG,GHG_CAP,Greenhouse gases,2008,12.048,medium
+Germany,GHG,GHG_CAP,Greenhouse gases,2009,11.239,medium
+Germany,GHG,GHG_CAP,Greenhouse gases,2010,11.659,medium
+Germany,GHG,GHG_CAP,Greenhouse gases,2011,11.370999999999999,medium
+Germany,GHG,GHG_CAP,Greenhouse gases,2012,11.413,medium
+Germany,GHG,GHG_CAP,Greenhouse gases,2013,11.599,medium
+Germany,GHG,GHG_CAP,Greenhouse gases,2014,11.079,medium
+Germany,GHG,GHG_CAP,Greenhouse gases,2015,11.081,medium
+Germany,GHG,GHG_CAP,Greenhouse gases,2016,11.06,medium
+Germany,GHG,GHG_CAP,Greenhouse gases,2017,10.819,medium
+Germany,GHG,GHG_CAP,Greenhouse gases,2018,10.325999999999999,medium
+Greece,GHG,TOTAL,Greenhouse gases,1990,103308.905,high
+Greece,GHG,TOTAL,Greenhouse gases,1991,103363.795,high
+Greece,GHG,TOTAL,Greenhouse gases,1992,104609.04400000001,high
+Greece,GHG,TOTAL,Greenhouse gases,1993,104210.52,high
+Greece,GHG,TOTAL,Greenhouse gases,1994,106996.165,high
+Greece,GHG,TOTAL,Greenhouse gases,1995,109332.939,high
+Greece,GHG,TOTAL,Greenhouse gases,1996,112478.838,high
+Greece,GHG,TOTAL,Greenhouse gases,1997,117379.07699999999,high
+Greece,GHG,TOTAL,Greenhouse gases,1998,122976.552,high
+Greece,GHG,TOTAL,Greenhouse gases,1999,123133.871,high
+Greece,GHG,TOTAL,Greenhouse gases,2000,126492.927,high
+Greece,GHG,TOTAL,Greenhouse gases,2001,127546.726,high
+Greece,GHG,TOTAL,Greenhouse gases,2002,127561.994,high
+Greece,GHG,TOTAL,Greenhouse gases,2003,131300.834,high
+Greece,GHG,TOTAL,Greenhouse gases,2004,131982.90099999998,high
+Greece,GHG,TOTAL,Greenhouse gases,2005,136446.497,high
+Greece,GHG,TOTAL,Greenhouse gases,2006,132540.098,high
+Greece,GHG,TOTAL,Greenhouse gases,2007,135170.744,high
+Greece,GHG,TOTAL,Greenhouse gases,2008,131846.082,high
+Greece,GHG,TOTAL,Greenhouse gases,2009,124640.13699999999,high
+Greece,GHG,TOTAL,Greenhouse gases,2010,118522.25099999999,high
+Greece,GHG,TOTAL,Greenhouse gases,2011,115593.359,high
+Greece,GHG,TOTAL,Greenhouse gases,2012,112326.847,high
+Greece,GHG,TOTAL,Greenhouse gases,2013,102705.101,high
+Greece,GHG,TOTAL,Greenhouse gases,2014,99276.89300000001,high
+Greece,GHG,TOTAL,Greenhouse gases,2015,95482.144,high
+Greece,GHG,TOTAL,Greenhouse gases,2016,91839.59,high
+Greece,GHG,TOTAL,Greenhouse gases,2017,95585.97300000001,high
+Greece,GHG,TOTAL,Greenhouse gases,2018,92221.66,high
+Greece,GHG,GHG_CAP,Greenhouse gases,1990,10.103,medium
+Greece,GHG,GHG_CAP,Greenhouse gases,1991,10.021,medium
+Greece,GHG,GHG_CAP,Greenhouse gases,1992,10.039,medium
+Greece,GHG,GHG_CAP,Greenhouse gases,1993,9.892999999999999,low
+Greece,GHG,GHG_CAP,Greenhouse gases,1994,10.051,medium
+Greece,GHG,GHG_CAP,Greenhouse gases,1995,10.175,medium
+Greece,GHG,GHG_CAP,Greenhouse gases,1996,10.384,medium
+Greece,GHG,GHG_CAP,Greenhouse gases,1997,10.763,medium
+Greece,GHG,GHG_CAP,Greenhouse gases,1998,11.21,medium
+Greece,GHG,GHG_CAP,Greenhouse gases,1999,11.165999999999999,medium
+Greece,GHG,GHG_CAP,Greenhouse gases,2000,11.414000000000001,medium
+Greece,GHG,GHG_CAP,Greenhouse gases,2001,11.455,medium
+Greece,GHG,GHG_CAP,Greenhouse gases,2002,11.407,medium
+Greece,GHG,GHG_CAP,Greenhouse gases,2003,11.704,medium
+Greece,GHG,GHG_CAP,Greenhouse gases,2004,11.747,medium
+Greece,GHG,GHG_CAP,Greenhouse gases,2005,12.155999999999999,medium
+Greece,GHG,GHG_CAP,Greenhouse gases,2006,11.85,medium
+Greece,GHG,GHG_CAP,Greenhouse gases,2007,12.155,medium
+Greece,GHG,GHG_CAP,Greenhouse gases,2008,11.942,medium
+Greece,GHG,GHG_CAP,Greenhouse gases,2009,11.373,medium
+Greece,GHG,GHG_CAP,Greenhouse gases,2010,10.886,medium
+Greece,GHG,GHG_CAP,Greenhouse gases,2011,10.674000000000001,medium
+Greece,GHG,GHG_CAP,Greenhouse gases,2012,10.419,medium
+Greece,GHG,GHG_CAP,Greenhouse gases,2013,9.562000000000001,low
+Greece,GHG,GHG_CAP,Greenhouse gases,2014,9.277000000000001,low
+Greece,GHG,GHG_CAP,Greenhouse gases,2015,8.957,low
+Greece,GHG,GHG_CAP,Greenhouse gases,2016,8.652000000000001,low
+Greece,GHG,GHG_CAP,Greenhouse gases,2017,9.044,low
+Greece,GHG,GHG_CAP,Greenhouse gases,2018,8.764,low
+Hungary,GHG,TOTAL,Greenhouse gases,1990,93950.883,high
+Hungary,GHG,TOTAL,Greenhouse gases,1991,87286.59800000001,high
+Hungary,GHG,TOTAL,Greenhouse gases,1992,77236.192,high
+Hungary,GHG,TOTAL,Greenhouse gases,1993,78119.018,high
+Hungary,GHG,TOTAL,Greenhouse gases,1994,76973.335,high
+Hungary,GHG,TOTAL,Greenhouse gases,1995,75352.355,high
+Hungary,GHG,TOTAL,Greenhouse gases,1996,77569.033,high
+Hungary,GHG,TOTAL,Greenhouse gases,1997,76028.725,high
+Hungary,GHG,TOTAL,Greenhouse gases,1998,75560.09,high
+Hungary,GHG,TOTAL,Greenhouse gases,1999,76110.415,high
+Hungary,GHG,TOTAL,Greenhouse gases,2000,73234.563,high
+Hungary,GHG,TOTAL,Greenhouse gases,2001,75218.52799999999,high
+Hungary,GHG,TOTAL,Greenhouse gases,2002,73535.065,high
+Hungary,GHG,TOTAL,Greenhouse gases,2003,76488.12700000001,high
+Hungary,GHG,TOTAL,Greenhouse gases,2004,75630.975,high
+Hungary,GHG,TOTAL,Greenhouse gases,2005,75386.682,high
+Hungary,GHG,TOTAL,Greenhouse gases,2006,74139.156,high
+Hungary,GHG,TOTAL,Greenhouse gases,2007,72456.79400000001,high
+Hungary,GHG,TOTAL,Greenhouse gases,2008,70519.935,high
+Hungary,GHG,TOTAL,Greenhouse gases,2009,64481.605,high
+Hungary,GHG,TOTAL,Greenhouse gases,2010,64856.755,high
+Hungary,GHG,TOTAL,Greenhouse gases,2011,63239.46400000001,high
+Hungary,GHG,TOTAL,Greenhouse gases,2012,59569.731,high
+Hungary,GHG,TOTAL,Greenhouse gases,2013,56763.149000000005,high
+Hungary,GHG,TOTAL,Greenhouse gases,2014,57391.168,high
+Hungary,GHG,TOTAL,Greenhouse gases,2015,60797.345,high
+Hungary,GHG,TOTAL,Greenhouse gases,2016,61257.344000000005,high
+Hungary,GHG,TOTAL,Greenhouse gases,2017,63781.352999999996,high
+Hungary,GHG,TOTAL,Greenhouse gases,2018,63219.56,high
+Hungary,GHG,GHG_CAP,Greenhouse gases,1990,9.054,low
+Hungary,GHG,GHG_CAP,Greenhouse gases,1991,8.423,low
+Hungary,GHG,GHG_CAP,Greenhouse gases,1992,7.456,low
+Hungary,GHG,GHG_CAP,Greenhouse gases,1993,7.541,low
+Hungary,GHG,GHG_CAP,Greenhouse gases,1994,7.432,low
+Hungary,GHG,GHG_CAP,Greenhouse gases,1995,7.281000000000001,low
+Hungary,GHG,GHG_CAP,Greenhouse gases,1996,7.507000000000001,low
+Hungary,GHG,GHG_CAP,Greenhouse gases,1997,7.375,low
+Hungary,GHG,GHG_CAP,Greenhouse gases,1998,7.35,low
+Hungary,GHG,GHG_CAP,Greenhouse gases,1999,7.426,low
+Hungary,GHG,GHG_CAP,Greenhouse gases,2000,7.165,low
+Hungary,GHG,GHG_CAP,Greenhouse gases,2001,7.379,low
+Hungary,GHG,GHG_CAP,Greenhouse gases,2002,7.233,low
+Hungary,GHG,GHG_CAP,Greenhouse gases,2003,7.542000000000001,low
+Hungary,GHG,GHG_CAP,Greenhouse gases,2004,7.477,low
+Hungary,GHG,GHG_CAP,Greenhouse gases,2005,7.474,low
+Hungary,GHG,GHG_CAP,Greenhouse gases,2006,7.372999999999999,low
+Hungary,GHG,GHG_CAP,Greenhouse gases,2007,7.228,low
+Hungary,GHG,GHG_CAP,Greenhouse gases,2008,7.058,low
+Hungary,GHG,GHG_CAP,Greenhouse gases,2009,6.474,low
+Hungary,GHG,GHG_CAP,Greenhouse gases,2010,6.5329999999999995,low
+Hungary,GHG,GHG_CAP,Greenhouse gases,2011,6.391,low
+Hungary,GHG,GHG_CAP,Greenhouse gases,2012,6.039,low
+Hungary,GHG,GHG_CAP,Greenhouse gases,2013,5.772,low
+Hungary,GHG,GHG_CAP,Greenhouse gases,2014,5.853,low
+Hungary,GHG,GHG_CAP,Greenhouse gases,2015,6.218,low
+Hungary,GHG,GHG_CAP,Greenhouse gases,2016,6.281000000000001,low
+Hungary,GHG,GHG_CAP,Greenhouse gases,2017,6.555,low
+Hungary,GHG,GHG_CAP,Greenhouse gases,2018,6.5120000000000005,low
+Iceland,GHG,TOTAL,Greenhouse gases,1990,3732.8720000000003,high
+Iceland,GHG,TOTAL,Greenhouse gases,1991,3516.765,high
+Iceland,GHG,TOTAL,Greenhouse gases,1992,3428.2070000000003,high
+Iceland,GHG,TOTAL,Greenhouse gases,1993,3516.115,high
+Iceland,GHG,TOTAL,Greenhouse gases,1994,3434.5370000000003,high
+Iceland,GHG,TOTAL,Greenhouse gases,1995,3551.039,high
+Iceland,GHG,TOTAL,Greenhouse gases,1996,3609.5609999999997,high
+Iceland,GHG,TOTAL,Greenhouse gases,1997,3776.822,high
+Iceland,GHG,TOTAL,Greenhouse gases,1998,3922.018,high
+Iceland,GHG,TOTAL,Greenhouse gases,1999,4147.965,high
+Iceland,GHG,TOTAL,Greenhouse gases,2000,4171.049,high
+Iceland,GHG,TOTAL,Greenhouse gases,2001,4061.518,high
+Iceland,GHG,TOTAL,Greenhouse gases,2002,4153.122,high
+Iceland,GHG,TOTAL,Greenhouse gases,2003,4112.702,high
+Iceland,GHG,TOTAL,Greenhouse gases,2004,4211.337,high
+Iceland,GHG,TOTAL,Greenhouse gases,2005,4059.4640000000004,high
+Iceland,GHG,TOTAL,Greenhouse gases,2006,4648.289000000001,high
+Iceland,GHG,TOTAL,Greenhouse gases,2007,4947.056,high
+Iceland,GHG,TOTAL,Greenhouse gases,2008,5342.911,high
+Iceland,GHG,TOTAL,Greenhouse gases,2009,5005.6,high
+Iceland,GHG,TOTAL,Greenhouse gases,2010,4928.924,high
+Iceland,GHG,TOTAL,Greenhouse gases,2011,4680.957,high
+Iceland,GHG,TOTAL,Greenhouse gases,2012,4683.536,high
+Iceland,GHG,TOTAL,Greenhouse gases,2013,4688.538,high
+Iceland,GHG,TOTAL,Greenhouse gases,2014,4722.097,high
+Iceland,GHG,TOTAL,Greenhouse gases,2015,4799.809,high
+Iceland,GHG,TOTAL,Greenhouse gases,2016,4754.596,high
+Iceland,GHG,TOTAL,Greenhouse gases,2017,4835.5070000000005,high
+Iceland,GHG,TOTAL,Greenhouse gases,2018,4856.954000000001,high
+Iceland,GHG,GHG_CAP,Greenhouse gases,1990,14.636,medium
+Iceland,GHG,GHG_CAP,Greenhouse gases,1991,13.651,medium
+Iceland,GHG,GHG_CAP,Greenhouse gases,1992,13.177999999999999,medium
+Iceland,GHG,GHG_CAP,Greenhouse gases,1993,13.387,medium
+Iceland,GHG,GHG_CAP,Greenhouse gases,1994,12.954,medium
+Iceland,GHG,GHG_CAP,Greenhouse gases,1995,13.269,medium
+Iceland,GHG,GHG_CAP,Greenhouse gases,1996,13.360999999999999,medium
+Iceland,GHG,GHG_CAP,Greenhouse gases,1997,13.849,medium
+Iceland,GHG,GHG_CAP,Greenhouse gases,1998,14.247,medium
+Iceland,GHG,GHG_CAP,Greenhouse gases,1999,14.927999999999999,medium
+Iceland,GHG,GHG_CAP,Greenhouse gases,2000,14.873,medium
+Iceland,GHG,GHG_CAP,Greenhouse gases,2001,14.356,medium
+Iceland,GHG,GHG_CAP,Greenhouse gases,2002,14.556,medium
+Iceland,GHG,GHG_CAP,Greenhouse gases,2003,14.283,medium
+Iceland,GHG,GHG_CAP,Greenhouse gases,2004,14.467,medium
+Iceland,GHG,GHG_CAP,Greenhouse gases,2005,13.762,medium
+Iceland,GHG,GHG_CAP,Greenhouse gases,2006,15.509,medium
+Iceland,GHG,GHG_CAP,Greenhouse gases,2007,16.21,high
+Iceland,GHG,GHG_CAP,Greenhouse gases,2008,17.188,high
+Iceland,GHG,GHG_CAP,Greenhouse gases,2009,15.837,medium
+Iceland,GHG,GHG_CAP,Greenhouse gases,2010,15.387,medium
+Iceland,GHG,GHG_CAP,Greenhouse gases,2011,14.470999999999998,medium
+Iceland,GHG,GHG_CAP,Greenhouse gases,2012,14.382,medium
+Iceland,GHG,GHG_CAP,Greenhouse gases,2013,14.33,medium
+Iceland,GHG,GHG_CAP,Greenhouse gases,2014,14.370999999999999,medium
+Iceland,GHG,GHG_CAP,Greenhouse gases,2015,14.534,medium
+Iceland,GHG,GHG_CAP,Greenhouse gases,2016,14.312000000000001,medium
+Iceland,GHG,GHG_CAP,Greenhouse gases,2017,14.460999999999999,medium
+Iceland,GHG,GHG_CAP,Greenhouse gases,2018,14.425,medium
+Ireland,GHG,TOTAL,Greenhouse gases,1990,55468.295999999995,high
+Ireland,GHG,TOTAL,Greenhouse gases,1991,56146.920999999995,high
+Ireland,GHG,TOTAL,Greenhouse gases,1992,56013.364,high
+Ireland,GHG,TOTAL,Greenhouse gases,1993,56416.307,high
+Ireland,GHG,TOTAL,Greenhouse gases,1994,57760.823,high
+Ireland,GHG,TOTAL,Greenhouse gases,1995,59164.253,high
+Ireland,GHG,TOTAL,Greenhouse gases,1996,61234.153,high
+Ireland,GHG,TOTAL,Greenhouse gases,1997,62565.155,high
+Ireland,GHG,TOTAL,Greenhouse gases,1998,65031.485,high
+Ireland,GHG,TOTAL,Greenhouse gases,1999,66174.541,high
+Ireland,GHG,TOTAL,Greenhouse gases,2000,68314.276,high
+Ireland,GHG,TOTAL,Greenhouse gases,2001,70221.215,high
+Ireland,GHG,TOTAL,Greenhouse gases,2002,68244.217,high
+Ireland,GHG,TOTAL,Greenhouse gases,2003,68550.017,high
+Ireland,GHG,TOTAL,Greenhouse gases,2004,67990.207,high
+Ireland,GHG,TOTAL,Greenhouse gases,2005,69702.107,high
+Ireland,GHG,TOTAL,Greenhouse gases,2006,68825.586,high
+Ireland,GHG,TOTAL,Greenhouse gases,2007,68042.033,high
+Ireland,GHG,TOTAL,Greenhouse gases,2008,67490.636,high
+Ireland,GHG,TOTAL,Greenhouse gases,2009,61736.431,high
+Ireland,GHG,TOTAL,Greenhouse gases,2010,61277.543,high
+Ireland,GHG,TOTAL,Greenhouse gases,2011,57156.859000000004,high
+Ireland,GHG,TOTAL,Greenhouse gases,2012,57752.702000000005,high
+Ireland,GHG,TOTAL,Greenhouse gases,2013,57589.735,high
+Ireland,GHG,TOTAL,Greenhouse gases,2014,57325.318,high
+Ireland,GHG,TOTAL,Greenhouse gases,2015,59415.925,high
+Ireland,GHG,TOTAL,Greenhouse gases,2016,61491.44,high
+Ireland,GHG,TOTAL,Greenhouse gases,2017,61004.876,high
+Ireland,GHG,TOTAL,Greenhouse gases,2018,60934.541,high
+Ireland,GHG,GHG_CAP,Greenhouse gases,1990,15.799000000000001,medium
+Ireland,GHG,GHG_CAP,Greenhouse gases,1991,15.960999999999999,medium
+Ireland,GHG,GHG_CAP,Greenhouse gases,1992,15.868,medium
+Ireland,GHG,GHG_CAP,Greenhouse gases,1993,15.905999999999999,medium
+Ireland,GHG,GHG_CAP,Greenhouse gases,1994,16.189,high
+Ireland,GHG,GHG_CAP,Greenhouse gases,1995,16.47,high
+Ireland,GHG,GHG_CAP,Greenhouse gases,1996,16.917,high
+Ireland,GHG,GHG_CAP,Greenhouse gases,1997,17.136,high
+Ireland,GHG,GHG_CAP,Greenhouse gases,1998,17.634,high
+Ireland,GHG,GHG_CAP,Greenhouse gases,1999,17.734,high
+Ireland,GHG,GHG_CAP,Greenhouse gases,2000,18.058,high
+Ireland,GHG,GHG_CAP,Greenhouse gases,2001,18.276,high
+Ireland,GHG,GHG_CAP,Greenhouse gases,2002,17.463,high
+Ireland,GHG,GHG_CAP,Greenhouse gases,2003,17.223,high
+Ireland,GHG,GHG_CAP,Greenhouse gases,2004,16.754,high
+Ireland,GHG,GHG_CAP,Greenhouse gases,2005,16.831,high
+Ireland,GHG,GHG_CAP,Greenhouse gases,2006,16.268,high
+Ireland,GHG,GHG_CAP,Greenhouse gases,2007,15.734000000000002,medium
+Ireland,GHG,GHG_CAP,Greenhouse gases,2008,15.284,medium
+Ireland,GHG,GHG_CAP,Greenhouse gases,2009,13.735999999999999,medium
+Ireland,GHG,GHG_CAP,Greenhouse gases,2010,13.455,medium
+Ireland,GHG,GHG_CAP,Greenhouse gases,2011,12.449000000000002,medium
+Ireland,GHG,GHG_CAP,Greenhouse gases,2012,12.533,medium
+Ireland,GHG,GHG_CAP,Greenhouse gases,2013,12.478,medium
+Ireland,GHG,GHG_CAP,Greenhouse gases,2014,12.39,medium
+Ireland,GHG,GHG_CAP,Greenhouse gases,2015,12.770999999999999,medium
+Ireland,GHG,GHG_CAP,Greenhouse gases,2016,13.095,medium
+Ireland,GHG,GHG_CAP,Greenhouse gases,2017,12.834000000000001,medium
+Ireland,GHG,GHG_CAP,Greenhouse gases,2018,12.645,medium
+Italy,GHG,TOTAL,Greenhouse gases,1990,516051.742,high
+Italy,GHG,TOTAL,Greenhouse gases,1991,517107.001,high
+Italy,GHG,TOTAL,Greenhouse gases,1992,516117.30600000004,high
+Italy,GHG,TOTAL,Greenhouse gases,1993,509104.902,high
+Italy,GHG,TOTAL,Greenhouse gases,1994,503368.554,high
+Italy,GHG,TOTAL,Greenhouse gases,1995,529435.478,high
+Italy,GHG,TOTAL,Greenhouse gases,1996,523538.229,high
+Italy,GHG,TOTAL,Greenhouse gases,1997,531260.382,high
+Italy,GHG,TOTAL,Greenhouse gases,1998,543481.19,high
+Italy,GHG,TOTAL,Greenhouse gases,1999,548740.2829999999,high
+Italy,GHG,TOTAL,Greenhouse gases,2000,552474.434,high
+Italy,GHG,TOTAL,Greenhouse gases,2001,554029.53,high
+Italy,GHG,TOTAL,Greenhouse gases,2002,560213.531,high
+Italy,GHG,TOTAL,Greenhouse gases,2003,579418.015,high
+Italy,GHG,TOTAL,Greenhouse gases,2004,585375.66,high
+Italy,GHG,TOTAL,Greenhouse gases,2005,586529.47,high
+Italy,GHG,TOTAL,Greenhouse gases,2006,576602.667,high
+Italy,GHG,TOTAL,Greenhouse gases,2007,569689.77,high
+Italy,GHG,TOTAL,Greenhouse gases,2008,557101.805,high
+Italy,GHG,TOTAL,Greenhouse gases,2009,502603.755,high
+Italy,GHG,TOTAL,Greenhouse gases,2010,513756.37899999996,high
+Italy,GHG,TOTAL,Greenhouse gases,2011,501288.045,high
+Italy,GHG,TOTAL,Greenhouse gases,2012,482361.633,high
+Italy,GHG,TOTAL,Greenhouse gases,2013,447072.723,high
+Italy,GHG,TOTAL,Greenhouse gases,2014,426491.711,high
+Italy,GHG,TOTAL,Greenhouse gases,2015,439431.751,high
+Italy,GHG,TOTAL,Greenhouse gases,2016,436088.44899999996,high
+Italy,GHG,TOTAL,Greenhouse gases,2017,431324.463,high
+Italy,GHG,TOTAL,Greenhouse gases,2018,427529.021,high
+Italy,GHG,GHG_CAP,Greenhouse gases,1990,9.046,low
+Italy,GHG,GHG_CAP,Greenhouse gases,1991,9.058,low
+Italy,GHG,GHG_CAP,Greenhouse gases,1992,9.032,low
+Italy,GHG,GHG_CAP,Greenhouse gases,1993,8.901,low
+Italy,GHG,GHG_CAP,Greenhouse gases,1994,8.798,low
+Italy,GHG,GHG_CAP,Greenhouse gases,1995,9.26,low
+Italy,GHG,GHG_CAP,Greenhouse gases,1996,9.174,low
+Italy,GHG,GHG_CAP,Greenhouse gases,1997,9.336,low
+Italy,GHG,GHG_CAP,Greenhouse gases,1998,9.578,low
+Italy,GHG,GHG_CAP,Greenhouse gases,1999,9.686,low
+Italy,GHG,GHG_CAP,Greenhouse gases,2000,9.745,low
+Italy,GHG,GHG_CAP,Greenhouse gases,2001,9.741,low
+Italy,GHG,GHG_CAP,Greenhouse gases,2002,9.797,low
+Italy,GHG,GHG_CAP,Greenhouse gases,2003,10.066,medium
+Italy,GHG,GHG_CAP,Greenhouse gases,2004,10.102,medium
+Italy,GHG,GHG_CAP,Greenhouse gases,2005,10.064,medium
+Italy,GHG,GHG_CAP,Greenhouse gases,2006,9.849,low
+Italy,GHG,GHG_CAP,Greenhouse gases,2007,9.697000000000001,low
+Italy,GHG,GHG_CAP,Greenhouse gases,2008,9.455,low
+Italy,GHG,GHG_CAP,Greenhouse gases,2009,8.503,low
+Italy,GHG,GHG_CAP,Greenhouse gases,2010,8.66,low
+Italy,GHG,GHG_CAP,Greenhouse gases,2011,8.412,low
+Italy,GHG,GHG_CAP,Greenhouse gases,2012,8.056000000000001,low
+Italy,GHG,GHG_CAP,Greenhouse gases,2013,7.431,low
+Italy,GHG,GHG_CAP,Greenhouse gases,2014,7.06,low
+Italy,GHG,GHG_CAP,Greenhouse gases,2015,7.254,low
+Italy,GHG,GHG_CAP,Greenhouse gases,2016,7.189,low
+Italy,GHG,GHG_CAP,Greenhouse gases,2017,7.109,low
+Italy,GHG,GHG_CAP,Greenhouse gases,2018,7.0520000000000005,low
+Japan,GHG,TOTAL,Greenhouse gases,1990,1270039.967,high
+Japan,GHG,TOTAL,Greenhouse gases,1991,1284001.1770000001,high
+Japan,GHG,TOTAL,Greenhouse gases,1992,1296664.518,high
+Japan,GHG,TOTAL,Greenhouse gases,1993,1289105.604,high
+Japan,GHG,TOTAL,Greenhouse gases,1994,1353440.832,high
+Japan,GHG,TOTAL,Greenhouse gases,1995,1374505.101,high
+Japan,GHG,TOTAL,Greenhouse gases,1996,1386969.521,high
+Japan,GHG,TOTAL,Greenhouse gases,1997,1379301.6530000002,high
+Japan,GHG,TOTAL,Greenhouse gases,1998,1330779.959,high
+Japan,GHG,TOTAL,Greenhouse gases,1999,1354370.003,high
+Japan,GHG,TOTAL,Greenhouse gases,2000,1374774.031,high
+Japan,GHG,TOTAL,Greenhouse gases,2001,1349333.2759999998,high
+Japan,GHG,TOTAL,Greenhouse gases,2002,1373167.4640000002,high
+Japan,GHG,TOTAL,Greenhouse gases,2003,1379116.924,high
+Japan,GHG,TOTAL,Greenhouse gases,2004,1371688.862,high
+Japan,GHG,TOTAL,Greenhouse gases,2005,1378770.8069999998,high
+Japan,GHG,TOTAL,Greenhouse gases,2006,1357162.2119999998,high
+Japan,GHG,TOTAL,Greenhouse gases,2007,1393190.467,high
+Japan,GHG,TOTAL,Greenhouse gases,2008,1321204.2859999998,high
+Japan,GHG,TOTAL,Greenhouse gases,2009,1248422.2859999998,high
+Japan,GHG,TOTAL,Greenhouse gases,2010,1302549.969,high
+Japan,GHG,TOTAL,Greenhouse gases,2011,1353603.926,high
+Japan,GHG,TOTAL,Greenhouse gases,2012,1396323.773,high
+Japan,GHG,TOTAL,Greenhouse gases,2013,1407809.0659999999,high
+Japan,GHG,TOTAL,Greenhouse gases,2014,1358344.5459999999,high
+Japan,GHG,TOTAL,Greenhouse gases,2015,1319800.1909999999,high
+Japan,GHG,TOTAL,Greenhouse gases,2016,1302842.0829999999,high
+Japan,GHG,TOTAL,Greenhouse gases,2017,1289239.533,high
+Japan,GHG,TOTAL,Greenhouse gases,2018,1238342.71,high
+Japan,GHG,GHG_CAP,Greenhouse gases,1990,10.201,medium
+Japan,GHG,GHG_CAP,Greenhouse gases,1991,10.277999999999999,medium
+Japan,GHG,GHG_CAP,Greenhouse gases,1992,10.345999999999998,medium
+Japan,GHG,GHG_CAP,Greenhouse gases,1993,10.255,medium
+Japan,GHG,GHG_CAP,Greenhouse gases,1994,10.737,medium
+Japan,GHG,GHG_CAP,Greenhouse gases,1995,10.877,medium
+Japan,GHG,GHG_CAP,Greenhouse gases,1996,10.952,medium
+Japan,GHG,GHG_CAP,Greenhouse gases,1997,10.87,medium
+Japan,GHG,GHG_CAP,Greenhouse gases,1998,10.469000000000001,medium
+Japan,GHG,GHG_CAP,Greenhouse gases,1999,10.637,medium
+Japan,GHG,GHG_CAP,Greenhouse gases,2000,10.78,medium
+Japan,GHG,GHG_CAP,Greenhouse gases,2001,10.565,medium
+Japan,GHG,GHG_CAP,Greenhouse gases,2002,10.737,medium
+Japan,GHG,GHG_CAP,Greenhouse gases,2003,10.769,medium
+Japan,GHG,GHG_CAP,Greenhouse gases,2004,10.699000000000002,medium
+Japan,GHG,GHG_CAP,Greenhouse gases,2005,10.744000000000002,medium
+Japan,GHG,GHG_CAP,Greenhouse gases,2006,10.568,medium
+Japan,GHG,GHG_CAP,Greenhouse gases,2007,10.842,medium
+Japan,GHG,GHG_CAP,Greenhouse gases,2008,10.279000000000002,medium
+Japan,GHG,GHG_CAP,Greenhouse gases,2009,9.711,low
+Japan,GHG,GHG_CAP,Greenhouse gases,2010,10.133,medium
+Japan,GHG,GHG_CAP,Greenhouse gases,2011,10.534,medium
+Japan,GHG,GHG_CAP,Greenhouse gases,2012,10.873,medium
+Japan,GHG,GHG_CAP,Greenhouse gases,2013,10.972000000000001,medium
+Japan,GHG,GHG_CAP,Greenhouse gases,2014,10.597999999999999,medium
+Japan,GHG,GHG_CAP,Greenhouse gases,2015,10.312000000000001,medium
+Japan,GHG,GHG_CAP,Greenhouse gases,2016,10.197000000000001,medium
+Japan,GHG,GHG_CAP,Greenhouse gases,2017,10.111,medium
+Japan,GHG,GHG_CAP,Greenhouse gases,2018,9.735,low
+Korea,GHG,TOTAL,Greenhouse gases,1990,292939.0,high
+Korea,GHG,TOTAL,Greenhouse gases,1991,316235.0,high
+Korea,GHG,TOTAL,Greenhouse gases,1992,343147.0,high
+Korea,GHG,TOTAL,Greenhouse gases,1993,378762.0,high
+Korea,GHG,TOTAL,Greenhouse gases,1994,403832.0,high
+Korea,GHG,TOTAL,Greenhouse gases,1995,437295.0,high
+Korea,GHG,TOTAL,Greenhouse gases,1996,471119.0,high
+Korea,GHG,TOTAL,Greenhouse gases,1997,500821.0,high
+Korea,GHG,TOTAL,Greenhouse gases,1998,430226.0,high
+Korea,GHG,TOTAL,Greenhouse gases,1999,468287.0,high
+Korea,GHG,TOTAL,Greenhouse gases,2000,501430.0,high
+Korea,GHG,TOTAL,Greenhouse gases,2001,514637.0,high
+Korea,GHG,TOTAL,Greenhouse gases,2002,536010.0,high
+Korea,GHG,TOTAL,Greenhouse gases,2003,546328.0,high
+Korea,GHG,TOTAL,Greenhouse gases,2004,555171.0,high
+Korea,GHG,TOTAL,Greenhouse gases,2005,559146.0,high
+Korea,GHG,TOTAL,Greenhouse gases,2006,564456.0,high
+Korea,GHG,TOTAL,Greenhouse gases,2007,579527.0,high
+Korea,GHG,TOTAL,Greenhouse gases,2008,592709.0,high
+Korea,GHG,TOTAL,Greenhouse gases,2009,597564.0,high
+Korea,GHG,TOTAL,Greenhouse gases,2010,657428.0,high
+Korea,GHG,TOTAL,Greenhouse gases,2011,682945.0,high
+Korea,GHG,TOTAL,Greenhouse gases,2012,687126.0,high
+Korea,GHG,TOTAL,Greenhouse gases,2013,696749.0,high
+Korea,GHG,TOTAL,Greenhouse gases,2014,690944.0,high
+Korea,GHG,TOTAL,Greenhouse gases,2015,692924.0,high
+Korea,GHG,TOTAL,Greenhouse gases,2016,694066.0,high
+Korea,GHG,GHG_CAP,Greenhouse gases,1990,6.825,low
+Korea,GHG,GHG_CAP,Greenhouse gases,1991,7.291,low
+Korea,GHG,GHG_CAP,Greenhouse gases,1992,7.8260000000000005,low
+Korea,GHG,GHG_CAP,Greenhouse gases,1993,8.543,low
+Korea,GHG,GHG_CAP,Greenhouse gases,1994,9.01,low
+Korea,GHG,GHG_CAP,Greenhouse gases,1995,9.655,low
+Korea,GHG,GHG_CAP,Greenhouse gases,1996,10.297,medium
+Korea,GHG,GHG_CAP,Greenhouse gases,1997,10.841,medium
+Korea,GHG,GHG_CAP,Greenhouse gases,1998,9.228,low
+Korea,GHG,GHG_CAP,Greenhouse gases,1999,9.96,low
+Korea,GHG,GHG_CAP,Greenhouse gases,2000,10.583,medium
+Korea,GHG,GHG_CAP,Greenhouse gases,2001,10.788,medium
+Korea,GHG,GHG_CAP,Greenhouse gases,2002,11.167,medium
+Korea,GHG,GHG_CAP,Greenhouse gases,2003,11.32,medium
+Korea,GHG,GHG_CAP,Greenhouse gases,2004,11.448,medium
+Korea,GHG,GHG_CAP,Greenhouse gases,2005,11.481,medium
+Korea,GHG,GHG_CAP,Greenhouse gases,2006,11.548,medium
+Korea,GHG,GHG_CAP,Greenhouse gases,2007,11.819,medium
+Korea,GHG,GHG_CAP,Greenhouse gases,2008,12.050999999999998,medium
+Korea,GHG,GHG_CAP,Greenhouse gases,2009,12.109000000000002,medium
+Korea,GHG,GHG_CAP,Greenhouse gases,2010,13.269,medium
+Korea,GHG,GHG_CAP,Greenhouse gases,2011,13.718,medium
+Korea,GHG,GHG_CAP,Greenhouse gases,2012,13.725999999999999,medium
+Korea,GHG,GHG_CAP,Greenhouse gases,2013,13.839,medium
+Korea,GHG,GHG_CAP,Greenhouse gases,2014,13.652999999999999,medium
+Korea,GHG,GHG_CAP,Greenhouse gases,2015,13.634,medium
+Korea,GHG,GHG_CAP,Greenhouse gases,2016,13.614,medium
+Luxembourg,GHG,TOTAL,Greenhouse gases,1990,12741.063999999998,high
+Luxembourg,GHG,TOTAL,Greenhouse gases,1991,13382.778999999999,high
+Luxembourg,GHG,TOTAL,Greenhouse gases,1992,13146.795,high
+Luxembourg,GHG,TOTAL,Greenhouse gases,1993,13293.448999999999,high
+Luxembourg,GHG,TOTAL,Greenhouse gases,1994,12468.534,high
+Luxembourg,GHG,TOTAL,Greenhouse gases,1995,10091.808,high
+Luxembourg,GHG,TOTAL,Greenhouse gases,1996,10155.256,high
+Luxembourg,GHG,TOTAL,Greenhouse gases,1997,9503.14,high
+Luxembourg,GHG,TOTAL,Greenhouse gases,1998,8622.176,high
+Luxembourg,GHG,TOTAL,Greenhouse gases,1999,9087.976999999999,high
+Luxembourg,GHG,TOTAL,Greenhouse gases,2000,9669.107,high
+Luxembourg,GHG,TOTAL,Greenhouse gases,2001,10158.184000000001,high
+Luxembourg,GHG,TOTAL,Greenhouse gases,2002,10934.876,high
+Luxembourg,GHG,TOTAL,Greenhouse gases,2003,11376.296999999999,high
+Luxembourg,GHG,TOTAL,Greenhouse gases,2004,12766.973999999998,high
+Luxembourg,GHG,TOTAL,Greenhouse gases,2005,13009.118,high
+Luxembourg,GHG,TOTAL,Greenhouse gases,2006,12838.072,high
+Luxembourg,GHG,TOTAL,Greenhouse gases,2007,12253.931999999999,high
+Luxembourg,GHG,TOTAL,Greenhouse gases,2008,12135.1,high
+Luxembourg,GHG,TOTAL,Greenhouse gases,2009,11587.581,high
+Luxembourg,GHG,TOTAL,Greenhouse gases,2010,12169.063999999998,high
+Luxembourg,GHG,TOTAL,Greenhouse gases,2011,12046.251,high
+Luxembourg,GHG,TOTAL,Greenhouse gases,2012,11773.249,high
+Luxembourg,GHG,TOTAL,Greenhouse gases,2013,11234.483,high
+Luxembourg,GHG,TOTAL,Greenhouse gases,2014,10776.853000000001,high
+Luxembourg,GHG,TOTAL,Greenhouse gases,2015,10290.097,high
+Luxembourg,GHG,TOTAL,Greenhouse gases,2016,10050.69,high
+Luxembourg,GHG,TOTAL,Greenhouse gases,2017,10235.697,high
+Luxembourg,GHG,TOTAL,Greenhouse gases,2018,10547.155,high
+Luxembourg,GHG,GHG_CAP,Greenhouse gases,1990,33.372,high
+Luxembourg,GHG,GHG_CAP,Greenhouse gases,1991,34.639,high
+Luxembourg,GHG,GHG_CAP,Greenhouse gases,1992,33.59,high
+Luxembourg,GHG,GHG_CAP,Greenhouse gases,1993,33.501,high
+Luxembourg,GHG,GHG_CAP,Greenhouse gases,1994,30.983,high
+Luxembourg,GHG,GHG_CAP,Greenhouse gases,1995,24.726,high
+Luxembourg,GHG,GHG_CAP,Greenhouse gases,1996,24.53,high
+Luxembourg,GHG,GHG_CAP,Greenhouse gases,1997,22.628,high
+Luxembourg,GHG,GHG_CAP,Greenhouse gases,1998,20.248,high
+Luxembourg,GHG,GHG_CAP,Greenhouse gases,1999,21.073,high
+Luxembourg,GHG,GHG_CAP,Greenhouse gases,2000,22.171999999999997,high
+Luxembourg,GHG,GHG_CAP,Greenhouse gases,2001,23.076,high
+Luxembourg,GHG,GHG_CAP,Greenhouse gases,2002,24.643,high
+Luxembourg,GHG,GHG_CAP,Greenhouse gases,2003,25.432,high
+Luxembourg,GHG,GHG_CAP,Greenhouse gases,2004,28.256999999999998,high
+Luxembourg,GHG,GHG_CAP,Greenhouse gases,2005,28.414,high
+Luxembourg,GHG,GHG_CAP,Greenhouse gases,2006,27.573,high
+Luxembourg,GHG,GHG_CAP,Greenhouse gases,2007,25.802,high
+Luxembourg,GHG,GHG_CAP,Greenhouse gases,2008,25.0,high
+Luxembourg,GHG,GHG_CAP,Greenhouse gases,2009,23.337,high
+Luxembourg,GHG,GHG_CAP,Greenhouse gases,2010,23.96,high
+Luxembourg,GHG,GHG_CAP,Greenhouse gases,2011,23.197,high
+Luxembourg,GHG,GHG_CAP,Greenhouse gases,2012,22.178,high
+Luxembourg,GHG,GHG_CAP,Greenhouse gases,2013,20.706,high
+Luxembourg,GHG,GHG_CAP,Greenhouse gases,2014,19.435,high
+Luxembourg,GHG,GHG_CAP,Greenhouse gases,2015,18.157,high
+Luxembourg,GHG,GHG_CAP,Greenhouse gases,2016,17.351,high
+Luxembourg,GHG,GHG_CAP,Greenhouse gases,2017,17.293,high
+Luxembourg,GHG,GHG_CAP,Greenhouse gases,2018,17.455,high
+Mexico,GHG,TOTAL,Greenhouse gases,1990,444741.575,high
+Mexico,GHG,TOTAL,Greenhouse gases,1991,453231.869,high
+Mexico,GHG,TOTAL,Greenhouse gases,1992,455133.315,high
+Mexico,GHG,TOTAL,Greenhouse gases,1993,458498.731,high
+Mexico,GHG,TOTAL,Greenhouse gases,1994,482721.50899999996,high
+Mexico,GHG,TOTAL,Greenhouse gases,1995,471385.13,high
+Mexico,GHG,TOTAL,Greenhouse gases,1996,493529.774,high
+Mexico,GHG,TOTAL,Greenhouse gases,1997,517909.703,high
+Mexico,GHG,TOTAL,Greenhouse gases,1998,543847.606,high
+Mexico,GHG,TOTAL,Greenhouse gases,1999,529229.895,high
+Mexico,GHG,TOTAL,Greenhouse gases,2000,544660.103,high
+Mexico,GHG,TOTAL,Greenhouse gases,2001,537610.978,high
+Mexico,GHG,TOTAL,Greenhouse gases,2002,557652.412,high
+Mexico,GHG,TOTAL,Greenhouse gases,2003,563298.299,high
+Mexico,GHG,TOTAL,Greenhouse gases,2004,574316.756,high
+Mexico,GHG,TOTAL,Greenhouse gases,2005,592587.216,high
+Mexico,GHG,TOTAL,Greenhouse gases,2006,616361.7,high
+Mexico,GHG,TOTAL,Greenhouse gases,2007,646665.303,high
+Mexico,GHG,TOTAL,Greenhouse gases,2008,691822.339,high
+Mexico,GHG,TOTAL,Greenhouse gases,2009,671577.378,high
+Mexico,GHG,TOTAL,Greenhouse gases,2010,669084.029,high
+Mexico,GHG,TOTAL,Greenhouse gases,2011,681190.359,high
+Mexico,GHG,TOTAL,Greenhouse gases,2012,673721.9040000001,high
+Mexico,GHG,TOTAL,Greenhouse gases,2013,683120.5920000001,high
+Mexico,GHG,TOTAL,Greenhouse gases,2014,686159.5,high
+Mexico,GHG,TOTAL,Greenhouse gases,2015,699564.266,high
+Mexico,GHG,GHG_CAP,Greenhouse gases,1990,5.297999999999999,low
+Mexico,GHG,GHG_CAP,Greenhouse gases,1991,5.3,low
+Mexico,GHG,GHG_CAP,Greenhouse gases,1992,5.227,low
+Mexico,GHG,GHG_CAP,Greenhouse gases,1993,5.172999999999999,low
+Mexico,GHG,GHG_CAP,Greenhouse gases,1994,5.354,low
+Mexico,GHG,GHG_CAP,Greenhouse gases,1995,5.143,low
+Mexico,GHG,GHG_CAP,Greenhouse gases,1996,5.297999999999999,low
+Mexico,GHG,GHG_CAP,Greenhouse gases,1997,5.474,low
+Mexico,GHG,GHG_CAP,Greenhouse gases,1998,5.662000000000001,low
+Mexico,GHG,GHG_CAP,Greenhouse gases,1999,5.428999999999999,low
+Mexico,GHG,GHG_CAP,Greenhouse gases,2000,5.507000000000001,low
+Mexico,GHG,GHG_CAP,Greenhouse gases,2001,5.36,low
+Mexico,GHG,GHG_CAP,Greenhouse gases,2002,5.484,low
+Mexico,GHG,GHG_CAP,Greenhouse gases,2003,5.465,low
+Mexico,GHG,GHG_CAP,Greenhouse gases,2004,5.495,low
+Mexico,GHG,GHG_CAP,Greenhouse gases,2005,5.59,low
+Mexico,GHG,GHG_CAP,Greenhouse gases,2006,5.73,low
+Mexico,GHG,GHG_CAP,Greenhouse gases,2007,5.922999999999999,low
+Mexico,GHG,GHG_CAP,Greenhouse gases,2008,6.242999999999999,low
+Mexico,GHG,GHG_CAP,Greenhouse gases,2009,5.971,low
+Mexico,GHG,GHG_CAP,Greenhouse gases,2010,5.864,low
+Mexico,GHG,GHG_CAP,Greenhouse gases,2011,5.888,low
+Mexico,GHG,GHG_CAP,Greenhouse gases,2012,5.745,low
+Mexico,GHG,GHG_CAP,Greenhouse gases,2013,5.749,low
+Mexico,GHG,GHG_CAP,Greenhouse gases,2014,5.7010000000000005,low
+Mexico,GHG,GHG_CAP,Greenhouse gases,2015,5.7410000000000005,low
+Netherlands,GHG,TOTAL,Greenhouse gases,1990,220740.867,high
+Netherlands,GHG,TOTAL,Greenhouse gases,1991,228385.55899999998,high
+Netherlands,GHG,TOTAL,Greenhouse gases,1992,229110.63100000002,high
+Netherlands,GHG,TOTAL,Greenhouse gases,1993,229867.59699999998,high
+Netherlands,GHG,TOTAL,Greenhouse gases,1994,230750.533,high
+Netherlands,GHG,TOTAL,Greenhouse gases,1995,230937.80399999997,high
+Netherlands,GHG,TOTAL,Greenhouse gases,1996,241763.55399999997,high
+Netherlands,GHG,TOTAL,Greenhouse gases,1997,233603.082,high
+Netherlands,GHG,TOTAL,Greenhouse gases,1998,234161.155,high
+Netherlands,GHG,TOTAL,Greenhouse gases,1999,220828.432,high
+Netherlands,GHG,TOTAL,Greenhouse gases,2000,219239.07,high
+Netherlands,GHG,TOTAL,Greenhouse gases,2001,219714.045,high
+Netherlands,GHG,TOTAL,Greenhouse gases,2002,217608.555,high
+Netherlands,GHG,TOTAL,Greenhouse gases,2003,218291.27399999998,high
+Netherlands,GHG,TOTAL,Greenhouse gases,2004,219893.84,high
+Netherlands,GHG,TOTAL,Greenhouse gases,2005,214226.59399999998,high
+Netherlands,GHG,TOTAL,Greenhouse gases,2006,209176.55800000002,high
+Netherlands,GHG,TOTAL,Greenhouse gases,2007,207676.78600000002,high
+Netherlands,GHG,TOTAL,Greenhouse gases,2008,207040.27800000002,high
+Netherlands,GHG,TOTAL,Greenhouse gases,2009,201382.078,high
+Netherlands,GHG,TOTAL,Greenhouse gases,2010,213281.34,high
+Netherlands,GHG,TOTAL,Greenhouse gases,2011,199175.461,high
+Netherlands,GHG,TOTAL,Greenhouse gases,2012,195272.035,high
+Netherlands,GHG,TOTAL,Greenhouse gases,2013,194878.143,high
+Netherlands,GHG,TOTAL,Greenhouse gases,2014,187184.613,high
+Netherlands,GHG,TOTAL,Greenhouse gases,2015,195422.37399999998,high
+Netherlands,GHG,TOTAL,Greenhouse gases,2016,194991.60600000003,high
+Netherlands,GHG,TOTAL,Greenhouse gases,2017,192876.46899999998,high
+Netherlands,GHG,TOTAL,Greenhouse gases,2018,187756.387,high
+Netherlands,GHG,GHG_CAP,Greenhouse gases,1990,14.75,medium
+Netherlands,GHG,GHG_CAP,Greenhouse gases,1991,15.16,medium
+Netherlands,GHG,GHG_CAP,Greenhouse gases,1992,15.107000000000001,medium
+Netherlands,GHG,GHG_CAP,Greenhouse gases,1993,15.056,medium
+Netherlands,GHG,GHG_CAP,Greenhouse gases,1994,15.014000000000001,medium
+Netherlands,GHG,GHG_CAP,Greenhouse gases,1995,14.93,medium
+Netherlands,GHG,GHG_CAP,Greenhouse gases,1996,15.534,medium
+Netherlands,GHG,GHG_CAP,Greenhouse gases,1997,14.921,medium
+Netherlands,GHG,GHG_CAP,Greenhouse gases,1998,14.870999999999999,medium
+Netherlands,GHG,GHG_CAP,Greenhouse gases,1999,13.945,medium
+Netherlands,GHG,GHG_CAP,Greenhouse gases,2000,13.765999999999998,medium
+Netherlands,GHG,GHG_CAP,Greenhouse gases,2001,13.717,medium
+Netherlands,GHG,GHG_CAP,Greenhouse gases,2002,13.507,medium
+Netherlands,GHG,GHG_CAP,Greenhouse gases,2003,13.474,medium
+Netherlands,GHG,GHG_CAP,Greenhouse gases,2004,13.501,medium
+Netherlands,GHG,GHG_CAP,Greenhouse gases,2005,13.089,medium
+Netherlands,GHG,GHG_CAP,Greenhouse gases,2006,12.724,medium
+Netherlands,GHG,GHG_CAP,Greenhouse gases,2007,12.581,medium
+Netherlands,GHG,GHG_CAP,Greenhouse gases,2008,12.495999999999999,medium
+Netherlands,GHG,GHG_CAP,Greenhouse gases,2009,12.112,medium
+Netherlands,GHG,GHG_CAP,Greenhouse gases,2010,12.784,medium
+Netherlands,GHG,GHG_CAP,Greenhouse gases,2011,11.899000000000001,medium
+Netherlands,GHG,GHG_CAP,Greenhouse gases,2012,11.629000000000001,medium
+Netherlands,GHG,GHG_CAP,Greenhouse gases,2013,11.57,medium
+Netherlands,GHG,GHG_CAP,Greenhouse gases,2014,11.081,medium
+Netherlands,GHG,GHG_CAP,Greenhouse gases,2015,11.537,medium
+Netherlands,GHG,GHG_CAP,Greenhouse gases,2016,11.482999999999999,medium
+Netherlands,GHG,GHG_CAP,Greenhouse gases,2017,11.331,medium
+Netherlands,GHG,GHG_CAP,Greenhouse gases,2018,11.005999999999998,medium
+New Zealand,GHG,TOTAL,Greenhouse gases,1990,63590.927,high
+New Zealand,GHG,TOTAL,Greenhouse gases,1991,64453.522000000004,high
+New Zealand,GHG,TOTAL,Greenhouse gases,1992,65668.775,high
+New Zealand,GHG,TOTAL,Greenhouse gases,1993,65433.404,high
+New Zealand,GHG,TOTAL,Greenhouse gases,1994,66679.182,high
+New Zealand,GHG,TOTAL,Greenhouse gases,1995,67426.24,high
+New Zealand,GHG,TOTAL,Greenhouse gases,1996,69549.337,high
+New Zealand,GHG,TOTAL,Greenhouse gases,1997,72259.275,high
+New Zealand,GHG,TOTAL,Greenhouse gases,1998,70221.37599999999,high
+New Zealand,GHG,TOTAL,Greenhouse gases,1999,72059.932,high
+New Zealand,GHG,TOTAL,Greenhouse gases,2000,74103.082,high
+New Zealand,GHG,TOTAL,Greenhouse gases,2001,77105.364,high
+New Zealand,GHG,TOTAL,Greenhouse gases,2002,77474.95599999999,high
+New Zealand,GHG,TOTAL,Greenhouse gases,2003,79643.61200000001,high
+New Zealand,GHG,TOTAL,Greenhouse gases,2004,79294.829,high
+New Zealand,GHG,TOTAL,Greenhouse gases,2005,81274.418,high
+New Zealand,GHG,TOTAL,Greenhouse gases,2006,81455.212,high
+New Zealand,GHG,TOTAL,Greenhouse gases,2007,79415.575,high
+New Zealand,GHG,TOTAL,Greenhouse gases,2008,79526.332,high
+New Zealand,GHG,TOTAL,Greenhouse gases,2009,76771.183,high
+New Zealand,GHG,TOTAL,Greenhouse gases,2010,77267.807,high
+New Zealand,GHG,TOTAL,Greenhouse gases,2011,76975.48700000001,high
+New Zealand,GHG,TOTAL,Greenhouse gases,2012,79401.577,high
+New Zealand,GHG,TOTAL,Greenhouse gases,2013,78804.913,high
+New Zealand,GHG,TOTAL,Greenhouse gases,2014,79449.842,high
+New Zealand,GHG,TOTAL,Greenhouse gases,2015,79493.714,high
+New Zealand,GHG,TOTAL,Greenhouse gases,2016,77623.307,high
+New Zealand,GHG,TOTAL,Greenhouse gases,2017,79640.864,high
+New Zealand,GHG,TOTAL,Greenhouse gases,2018,78862.288,high
+New Zealand,GHG,GHG_CAP,Greenhouse gases,1990,18.713,high
+New Zealand,GHG,GHG_CAP,Greenhouse gases,1991,18.703,high
+New Zealand,GHG,GHG_CAP,Greenhouse gases,1992,18.745,high
+New Zealand,GHG,GHG_CAP,Greenhouse gases,1993,18.357,high
+New Zealand,GHG,GHG_CAP,Greenhouse gases,1994,18.403,high
+New Zealand,GHG,GHG_CAP,Greenhouse gases,1995,18.348,high
+New Zealand,GHG,GHG_CAP,Greenhouse gases,1996,18.709,high
+New Zealand,GHG,GHG_CAP,Greenhouse gases,1997,19.257,high
+New Zealand,GHG,GHG_CAP,Greenhouse gases,1998,18.558,high
+New Zealand,GHG,GHG_CAP,Greenhouse gases,1999,18.873,high
+New Zealand,GHG,GHG_CAP,Greenhouse gases,2000,19.203,high
+New Zealand,GHG,GHG_CAP,Greenhouse gases,2001,19.73,high
+New Zealand,GHG,GHG_CAP,Greenhouse gases,2002,19.549,high
+New Zealand,GHG,GHG_CAP,Greenhouse gases,2003,19.802,high
+New Zealand,GHG,GHG_CAP,Greenhouse gases,2004,19.433,high
+New Zealand,GHG,GHG_CAP,Greenhouse gases,2005,19.654,high
+New Zealand,GHG,GHG_CAP,Greenhouse gases,2006,19.459,high
+New Zealand,GHG,GHG_CAP,Greenhouse gases,2007,18.761,high
+New Zealand,GHG,GHG_CAP,Greenhouse gases,2008,18.589000000000002,high
+New Zealand,GHG,GHG_CAP,Greenhouse gases,2009,17.757,high
+New Zealand,GHG,GHG_CAP,Greenhouse gases,2010,17.680999999999997,high
+New Zealand,GHG,GHG_CAP,Greenhouse gases,2011,17.42,high
+New Zealand,GHG,GHG_CAP,Greenhouse gases,2012,17.769000000000002,high
+New Zealand,GHG,GHG_CAP,Greenhouse gases,2013,17.44,high
+New Zealand,GHG,GHG_CAP,Greenhouse gases,2014,17.394000000000002,high
+New Zealand,GHG,GHG_CAP,Greenhouse gases,2015,17.227,high
+New Zealand,GHG,GHG_CAP,Greenhouse gases,2016,16.66,high
+New Zealand,GHG,GHG_CAP,Greenhouse gases,2017,16.938,high
+New Zealand,GHG,GHG_CAP,Greenhouse gases,2018,16.627,high
+Norway,GHG,TOTAL,Greenhouse gases,1990,51459.02099999999,high
+Norway,GHG,TOTAL,Greenhouse gases,1991,49199.529,high
+Norway,GHG,TOTAL,Greenhouse gases,1992,47536.725,high
+Norway,GHG,TOTAL,Greenhouse gases,1993,49405.877,high
+Norway,GHG,TOTAL,Greenhouse gases,1994,51267.845,high
+Norway,GHG,TOTAL,Greenhouse gases,1995,51620.174000000006,high
+Norway,GHG,TOTAL,Greenhouse gases,1996,54604.377,high
+Norway,GHG,TOTAL,Greenhouse gases,1997,54596.459,high
+Norway,GHG,TOTAL,Greenhouse gases,1998,54758.815,high
+Norway,GHG,TOTAL,Greenhouse gases,1999,55717.699,high
+Norway,GHG,TOTAL,Greenhouse gases,2000,55114.745,high
+Norway,GHG,TOTAL,Greenhouse gases,2001,56348.386,high
+Norway,GHG,TOTAL,Greenhouse gases,2002,55289.874,high
+Norway,GHG,TOTAL,Greenhouse gases,2003,55795.672,high
+Norway,GHG,TOTAL,Greenhouse gases,2004,56190.764,high
+Norway,GHG,TOTAL,Greenhouse gases,2005,55403.47,high
+Norway,GHG,TOTAL,Greenhouse gases,2006,55355.136,high
+Norway,GHG,TOTAL,Greenhouse gases,2007,57008.705,high
+Norway,GHG,TOTAL,Greenhouse gases,2008,55587.359000000004,high
+Norway,GHG,TOTAL,Greenhouse gases,2009,53179.198,high
+Norway,GHG,TOTAL,Greenhouse gases,2010,55468.969000000005,high
+Norway,GHG,TOTAL,Greenhouse gases,2011,54643.093,high
+Norway,GHG,TOTAL,Greenhouse gases,2012,54121.123,high
+Norway,GHG,TOTAL,Greenhouse gases,2013,53969.358,high
+Norway,GHG,TOTAL,Greenhouse gases,2014,53930.248,high
+Norway,GHG,TOTAL,Greenhouse gases,2015,54353.967000000004,high
+Norway,GHG,TOTAL,Greenhouse gases,2016,53472.212,high
+Norway,GHG,TOTAL,Greenhouse gases,2017,52386.525,high
+Norway,GHG,TOTAL,Greenhouse gases,2018,52022.405,high
+Norway,GHG,GHG_CAP,Greenhouse gases,1990,12.116,medium
+Norway,GHG,GHG_CAP,Greenhouse gases,1991,11.524000000000001,medium
+Norway,GHG,GHG_CAP,Greenhouse gases,1992,11.074000000000002,medium
+Norway,GHG,GHG_CAP,Greenhouse gases,1993,11.445,medium
+Norway,GHG,GHG_CAP,Greenhouse gases,1994,11.808,medium
+Norway,GHG,GHG_CAP,Greenhouse gases,1995,11.821,medium
+Norway,GHG,GHG_CAP,Greenhouse gases,1996,12.429,medium
+Norway,GHG,GHG_CAP,Greenhouse gases,1997,12.350999999999999,medium
+Norway,GHG,GHG_CAP,Greenhouse gases,1998,12.312000000000001,medium
+Norway,GHG,GHG_CAP,Greenhouse gases,1999,12.454,medium
+Norway,GHG,GHG_CAP,Greenhouse gases,2000,12.249,medium
+Norway,GHG,GHG_CAP,Greenhouse gases,2001,12.458,medium
+Norway,GHG,GHG_CAP,Greenhouse gases,2002,12.162,medium
+Norway,GHG,GHG_CAP,Greenhouse gases,2003,12.209000000000001,medium
+Norway,GHG,GHG_CAP,Greenhouse gases,2004,12.22,medium
+Norway,GHG,GHG_CAP,Greenhouse gases,2005,11.96,medium
+Norway,GHG,GHG_CAP,Greenhouse gases,2006,11.845999999999998,medium
+Norway,GHG,GHG_CAP,Greenhouse gases,2007,12.08,medium
+Norway,GHG,GHG_CAP,Greenhouse gases,2008,11.651,medium
+Norway,GHG,GHG_CAP,Greenhouse gases,2009,11.017000000000001,medium
+Norway,GHG,GHG_CAP,Greenhouse gases,2010,11.353,medium
+Norway,GHG,GHG_CAP,Greenhouse gases,2011,11.043,medium
+Norway,GHG,GHG_CAP,Greenhouse gases,2012,10.795,medium
+Norway,GHG,GHG_CAP,Greenhouse gases,2013,10.625,medium
+Norway,GHG,GHG_CAP,Greenhouse gases,2014,10.488,medium
+Norway,GHG,GHG_CAP,Greenhouse gases,2015,10.453,medium
+Norway,GHG,GHG_CAP,Greenhouse gases,2016,10.183,medium
+Norway,GHG,GHG_CAP,Greenhouse gases,2017,9.891,low
+Norway,GHG,GHG_CAP,Greenhouse gases,2018,9.746,low
+Poland,GHG,TOTAL,Greenhouse gases,1990,475080.316,high
+Poland,GHG,TOTAL,Greenhouse gases,1991,463126.703,high
+Poland,GHG,TOTAL,Greenhouse gases,1992,450485.86,high
+Poland,GHG,TOTAL,Greenhouse gases,1993,450327.26200000005,high
+Poland,GHG,TOTAL,Greenhouse gases,1994,444648.99299999996,high
+Poland,GHG,TOTAL,Greenhouse gases,1995,446722.539,high
+Poland,GHG,TOTAL,Greenhouse gases,1996,460555.494,high
+Poland,GHG,TOTAL,Greenhouse gases,1997,450448.665,high
+Poland,GHG,TOTAL,Greenhouse gases,1998,420050.154,high
+Poland,GHG,TOTAL,Greenhouse gases,1999,408500.805,high
+Poland,GHG,TOTAL,Greenhouse gases,2000,395949.87899999996,high
+Poland,GHG,TOTAL,Greenhouse gases,2001,394895.901,high
+Poland,GHG,TOTAL,Greenhouse gases,2002,385174.50700000004,high
+Poland,GHG,TOTAL,Greenhouse gases,2003,398551.083,high
+Poland,GHG,TOTAL,Greenhouse gases,2004,404101.54799999995,high
+Poland,GHG,TOTAL,Greenhouse gases,2005,404459.533,high
+Poland,GHG,TOTAL,Greenhouse gases,2006,419741.76200000005,high
+Poland,GHG,TOTAL,Greenhouse gases,2007,419497.50200000004,high
+Poland,GHG,TOTAL,Greenhouse gases,2008,413124.39,high
+Poland,GHG,TOTAL,Greenhouse gases,2009,394084.802,high
+Poland,GHG,TOTAL,Greenhouse gases,2010,412926.323,high
+Poland,GHG,TOTAL,Greenhouse gases,2011,412006.11299999995,high
+Poland,GHG,TOTAL,Greenhouse gases,2012,404526.561,high
+Poland,GHG,TOTAL,Greenhouse gases,2013,401147.19200000004,high
+Poland,GHG,TOTAL,Greenhouse gases,2014,388469.506,high
+Poland,GHG,TOTAL,Greenhouse gases,2015,391674.125,high
+Poland,GHG,TOTAL,Greenhouse gases,2016,400268.492,high
+Poland,GHG,TOTAL,Greenhouse gases,2017,414679.37100000004,high
+Poland,GHG,TOTAL,Greenhouse gases,2018,412856.37299999996,high
+Poland,GHG,GHG_CAP,Greenhouse gases,1990,12.515,medium
+Poland,GHG,GHG_CAP,Greenhouse gases,1991,12.161,medium
+Poland,GHG,GHG_CAP,Greenhouse gases,1992,11.794,medium
+Poland,GHG,GHG_CAP,Greenhouse gases,1993,11.757,medium
+Poland,GHG,GHG_CAP,Greenhouse gases,1994,11.583,medium
+Poland,GHG,GHG_CAP,Greenhouse gases,1995,11.616,medium
+Poland,GHG,GHG_CAP,Greenhouse gases,1996,11.959000000000001,medium
+Poland,GHG,GHG_CAP,Greenhouse gases,1997,11.686,medium
+Poland,GHG,GHG_CAP,Greenhouse gases,1998,10.892000000000001,medium
+Poland,GHG,GHG_CAP,Greenhouse gases,1999,10.592,medium
+Poland,GHG,GHG_CAP,Greenhouse gases,2000,10.269,medium
+Poland,GHG,GHG_CAP,Greenhouse gases,2001,10.249,medium
+Poland,GHG,GHG_CAP,Greenhouse gases,2002,10.007,medium
+Poland,GHG,GHG_CAP,Greenhouse gases,2003,10.368,medium
+Poland,GHG,GHG_CAP,Greenhouse gases,2004,10.524000000000001,medium
+Poland,GHG,GHG_CAP,Greenhouse gases,2005,10.540999999999999,medium
+Poland,GHG,GHG_CAP,Greenhouse gases,2006,10.944,medium
+Poland,GHG,GHG_CAP,Greenhouse gases,2007,10.937999999999999,medium
+Poland,GHG,GHG_CAP,Greenhouse gases,2008,10.770999999999999,medium
+Poland,GHG,GHG_CAP,Greenhouse gases,2009,10.275,medium
+Poland,GHG,GHG_CAP,Greenhouse gases,2010,10.773,medium
+Poland,GHG,GHG_CAP,Greenhouse gases,2011,10.761,medium
+Poland,GHG,GHG_CAP,Greenhouse gases,2012,10.582,medium
+Poland,GHG,GHG_CAP,Greenhouse gases,2013,10.513,medium
+Poland,GHG,GHG_CAP,Greenhouse gases,2014,10.198,medium
+Poland,GHG,GHG_CAP,Greenhouse gases,2015,10.298,medium
+Poland,GHG,GHG_CAP,Greenhouse gases,2016,10.536,medium
+Poland,GHG,GHG_CAP,Greenhouse gases,2017,10.925999999999998,medium
+Poland,GHG,GHG_CAP,Greenhouse gases,2018,10.887,medium
+Portugal,GHG,TOTAL,Greenhouse gases,1990,58558.607,high
+Portugal,GHG,TOTAL,Greenhouse gases,1991,60519.112,high
+Portugal,GHG,TOTAL,Greenhouse gases,1992,64463.087,high
+Portugal,GHG,TOTAL,Greenhouse gases,1993,62938.842000000004,high
+Portugal,GHG,TOTAL,Greenhouse gases,1994,63906.045,high
+Portugal,GHG,TOTAL,Greenhouse gases,1995,68546.692,high
+Portugal,GHG,TOTAL,Greenhouse gases,1996,66206.275,high
+Portugal,GHG,TOTAL,Greenhouse gases,1997,69401.647,high
+Portugal,GHG,TOTAL,Greenhouse gases,1998,74238.091,high
+Portugal,GHG,TOTAL,Greenhouse gases,1999,82290.121,high
+Portugal,GHG,TOTAL,Greenhouse gases,2000,81528.167,high
+Portugal,GHG,TOTAL,Greenhouse gases,2001,81121.333,high
+Portugal,GHG,TOTAL,Greenhouse gases,2002,85574.064,high
+Portugal,GHG,TOTAL,Greenhouse gases,2003,80229.856,high
+Portugal,GHG,TOTAL,Greenhouse gases,2004,83350.564,high
+Portugal,GHG,TOTAL,Greenhouse gases,2005,85503.558,high
+Portugal,GHG,TOTAL,Greenhouse gases,2006,80733.326,high
+Portugal,GHG,TOTAL,Greenhouse gases,2007,78449.135,high
+Portugal,GHG,TOTAL,Greenhouse gases,2008,76066.243,high
+Portugal,GHG,TOTAL,Greenhouse gases,2009,72999.622,high
+Portugal,GHG,TOTAL,Greenhouse gases,2010,68749.86,high
+Portugal,GHG,TOTAL,Greenhouse gases,2011,67356.052,high
+Portugal,GHG,TOTAL,Greenhouse gases,2012,65466.544,high
+Portugal,GHG,TOTAL,Greenhouse gases,2013,63611.125,high
+Portugal,GHG,TOTAL,Greenhouse gases,2014,63520.263,high
+Portugal,GHG,TOTAL,Greenhouse gases,2015,67698.407,high
+Portugal,GHG,TOTAL,Greenhouse gases,2016,65865.829,high
+Portugal,GHG,TOTAL,Greenhouse gases,2017,70447.043,high
+Portugal,GHG,TOTAL,Greenhouse gases,2018,67280.276,high
+Portugal,GHG,GHG_CAP,Greenhouse gases,1990,5.905,low
+Portugal,GHG,GHG_CAP,Greenhouse gases,1991,6.082000000000001,low
+Portugal,GHG,GHG_CAP,Greenhouse gases,1992,6.4479999999999995,low
+Portugal,GHG,GHG_CAP,Greenhouse gases,1993,6.266,low
+Portugal,GHG,GHG_CAP,Greenhouse gases,1994,6.332999999999999,low
+Portugal,GHG,GHG_CAP,Greenhouse gases,1995,6.763999999999999,low
+Portugal,GHG,GHG_CAP,Greenhouse gases,1996,6.507000000000001,low
+Portugal,GHG,GHG_CAP,Greenhouse gases,1997,6.795,low
+Portugal,GHG,GHG_CAP,Greenhouse gases,1998,7.24,low
+Portugal,GHG,GHG_CAP,Greenhouse gases,1999,7.992000000000001,low
+Portugal,GHG,GHG_CAP,Greenhouse gases,2000,7.8839999999999995,low
+Portugal,GHG,GHG_CAP,Greenhouse gases,2001,7.811,low
+Portugal,GHG,GHG_CAP,Greenhouse gases,2002,8.205,low
+Portugal,GHG,GHG_CAP,Greenhouse gases,2003,7.662000000000001,low
+Portugal,GHG,GHG_CAP,Greenhouse gases,2004,7.932,low
+Portugal,GHG,GHG_CAP,Greenhouse gases,2005,8.11,low
+Portugal,GHG,GHG_CAP,Greenhouse gases,2006,7.636,low
+Portugal,GHG,GHG_CAP,Greenhouse gases,2007,7.404,low
+Portugal,GHG,GHG_CAP,Greenhouse gases,2008,7.172999999999999,low
+Portugal,GHG,GHG_CAP,Greenhouse gases,2009,6.888999999999999,low
+Portugal,GHG,GHG_CAP,Greenhouse gases,2010,6.505,low
+Portugal,GHG,GHG_CAP,Greenhouse gases,2011,6.399,low
+Portugal,GHG,GHG_CAP,Greenhouse gases,2012,6.251,low
+Portugal,GHG,GHG_CAP,Greenhouse gases,2013,6.106,low
+Portugal,GHG,GHG_CAP,Greenhouse gases,2014,6.126,low
+Portugal,GHG,GHG_CAP,Greenhouse gases,2015,6.556,low
+Portugal,GHG,GHG_CAP,Greenhouse gases,2016,6.402,low
+Portugal,GHG,GHG_CAP,Greenhouse gases,2017,6.869,low
+Portugal,GHG,GHG_CAP,Greenhouse gases,2018,6.579,low
+Slovak Republic,GHG,TOTAL,Greenhouse gases,1990,73517.128,high
+Slovak Republic,GHG,TOTAL,Greenhouse gases,1991,64096.665,high
+Slovak Republic,GHG,TOTAL,Greenhouse gases,1992,58415.817,high
+Slovak Republic,GHG,TOTAL,Greenhouse gases,1993,55050.765999999996,high
+Slovak Republic,GHG,TOTAL,Greenhouse gases,1994,52701.642,high
+Slovak Republic,GHG,TOTAL,Greenhouse gases,1995,53302.328,high
+Slovak Republic,GHG,TOTAL,Greenhouse gases,1996,53189.634000000005,high
+Slovak Republic,GHG,TOTAL,Greenhouse gases,1997,53130.668,high
+Slovak Republic,GHG,TOTAL,Greenhouse gases,1998,52525.598,high
+Slovak Republic,GHG,TOTAL,Greenhouse gases,1999,51197.483,high
+Slovak Republic,GHG,TOTAL,Greenhouse gases,2000,49291.584,high
+Slovak Republic,GHG,TOTAL,Greenhouse gases,2001,51564.191,high
+Slovak Republic,GHG,TOTAL,Greenhouse gases,2002,50196.232,high
+Slovak Republic,GHG,TOTAL,Greenhouse gases,2003,50412.28,high
+Slovak Republic,GHG,TOTAL,Greenhouse gases,2004,51271.02,high
+Slovak Republic,GHG,TOTAL,Greenhouse gases,2005,51271.662000000004,high
+Slovak Republic,GHG,TOTAL,Greenhouse gases,2006,51168.777,high
+Slovak Republic,GHG,TOTAL,Greenhouse gases,2007,49417.373,high
+Slovak Republic,GHG,TOTAL,Greenhouse gases,2008,49935.387,high
+Slovak Republic,GHG,TOTAL,Greenhouse gases,2009,45653.721,high
+Slovak Republic,GHG,TOTAL,Greenhouse gases,2010,46405.535,high
+Slovak Republic,GHG,TOTAL,Greenhouse gases,2011,45704.008,high
+Slovak Republic,GHG,TOTAL,Greenhouse gases,2012,43185.817,high
+Slovak Republic,GHG,TOTAL,Greenhouse gases,2013,42855.648,high
+Slovak Republic,GHG,TOTAL,Greenhouse gases,2014,40791.616,high
+Slovak Republic,GHG,TOTAL,Greenhouse gases,2015,41830.675,high
+Slovak Republic,GHG,TOTAL,Greenhouse gases,2016,42316.788,high
+Slovak Republic,GHG,TOTAL,Greenhouse gases,2017,43475.291,high
+Slovak Republic,GHG,TOTAL,Greenhouse gases,2018,43348.35,high
+Slovak Republic,GHG,GHG_CAP,Greenhouse gases,1990,13.847000000000001,medium
+Slovak Republic,GHG,GHG_CAP,Greenhouse gases,1991,12.027999999999999,medium
+Slovak Republic,GHG,GHG_CAP,Greenhouse gases,1992,10.925,medium
+Slovak Republic,GHG,GHG_CAP,Greenhouse gases,1993,10.265,medium
+Slovak Republic,GHG,GHG_CAP,Greenhouse gases,1994,9.804,low
+Slovak Republic,GHG,GHG_CAP,Greenhouse gases,1995,9.899,low
+Slovak Republic,GHG,GHG_CAP,Greenhouse gases,1996,9.866,low
+Slovak Republic,GHG,GHG_CAP,Greenhouse gases,1997,9.847999999999999,low
+Slovak Republic,GHG,GHG_CAP,Greenhouse gases,1998,9.731,low
+Slovak Republic,GHG,GHG_CAP,Greenhouse gases,1999,9.482000000000001,low
+Slovak Republic,GHG,GHG_CAP,Greenhouse gases,2000,9.128,low
+Slovak Republic,GHG,GHG_CAP,Greenhouse gases,2001,9.549,low
+Slovak Republic,GHG,GHG_CAP,Greenhouse gases,2002,9.296,low
+Slovak Republic,GHG,GHG_CAP,Greenhouse gases,2003,9.337,low
+Slovak Republic,GHG,GHG_CAP,Greenhouse gases,2004,9.496,low
+Slovak Republic,GHG,GHG_CAP,Greenhouse gases,2005,9.497,low
+Slovak Republic,GHG,GHG_CAP,Greenhouse gases,2006,9.478,low
+Slovak Republic,GHG,GHG_CAP,Greenhouse gases,2007,9.152000000000001,low
+Slovak Republic,GHG,GHG_CAP,Greenhouse gases,2008,9.245,low
+Slovak Republic,GHG,GHG_CAP,Greenhouse gases,2009,8.448,low
+Slovak Republic,GHG,GHG_CAP,Greenhouse gases,2010,8.579,low
+Slovak Republic,GHG,GHG_CAP,Greenhouse gases,2011,8.44,low
+Slovak Republic,GHG,GHG_CAP,Greenhouse gases,2012,7.965,low
+Slovak Republic,GHG,GHG_CAP,Greenhouse gases,2013,7.894,low
+Slovak Republic,GHG,GHG_CAP,Greenhouse gases,2014,7.505,low
+Slovak Republic,GHG,GHG_CAP,Greenhouse gases,2015,7.687,low
+Slovak Republic,GHG,GHG_CAP,Greenhouse gases,2016,7.768,low
+Slovak Republic,GHG,GHG_CAP,Greenhouse gases,2017,7.973,low
+Slovak Republic,GHG,GHG_CAP,Greenhouse gases,2018,7.944,low
+Spain,GHG,TOTAL,Greenhouse gases,1990,289383.32899999997,high
+Spain,GHG,TOTAL,Greenhouse gases,1991,296990.564,high
+Spain,GHG,TOTAL,Greenhouse gases,1992,306740.1,high
+Spain,GHG,TOTAL,Greenhouse gases,1993,296219.093,high
+Spain,GHG,TOTAL,Greenhouse gases,1994,312944.733,high
+Spain,GHG,TOTAL,Greenhouse gases,1995,328901.24600000004,high
+Spain,GHG,TOTAL,Greenhouse gases,1996,321217.524,high
+Spain,GHG,TOTAL,Greenhouse gases,1997,335660.95200000005,high
+Spain,GHG,TOTAL,Greenhouse gases,1998,345704.24,high
+Spain,GHG,TOTAL,Greenhouse gases,1999,373171.35,high
+Spain,GHG,TOTAL,Greenhouse gases,2000,388776.13,high
+Spain,GHG,TOTAL,Greenhouse gases,2001,386579.768,high
+Spain,GHG,TOTAL,Greenhouse gases,2002,404906.859,high
+Spain,GHG,TOTAL,Greenhouse gases,2003,412869.586,high
+Spain,GHG,TOTAL,Greenhouse gases,2004,428860.78799999994,high
+Spain,GHG,TOTAL,Greenhouse gases,2005,443439.521,high
+Spain,GHG,TOTAL,Greenhouse gases,2006,436395.81799999997,high
+Spain,GHG,TOTAL,Greenhouse gases,2007,447253.68200000003,high
+Spain,GHG,TOTAL,Greenhouse gases,2008,413027.782,high
+Spain,GHG,TOTAL,Greenhouse gases,2009,373425.049,high
+Spain,GHG,TOTAL,Greenhouse gases,2010,358858.911,high
+Spain,GHG,TOTAL,Greenhouse gases,2011,358230.88399999996,high
+Spain,GHG,TOTAL,Greenhouse gases,2012,350958.859,high
+Spain,GHG,TOTAL,Greenhouse gases,2013,324693.218,high
+Spain,GHG,TOTAL,Greenhouse gases,2014,326815.62100000004,high
+Spain,GHG,TOTAL,Greenhouse gases,2015,338254.29,high
+Spain,GHG,TOTAL,Greenhouse gases,2016,326890.37899999996,high
+Spain,GHG,TOTAL,Greenhouse gases,2017,340298.289,high
+Spain,GHG,TOTAL,Greenhouse gases,2018,334255.164,high
+Spain,GHG,GHG_CAP,Greenhouse gases,1990,7.382000000000001,low
+Spain,GHG,GHG_CAP,Greenhouse gases,1991,7.557,low
+Spain,GHG,GHG_CAP,Greenhouse gases,1992,7.7829999999999995,low
+Spain,GHG,GHG_CAP,Greenhouse gases,1993,7.492999999999999,low
+Spain,GHG,GHG_CAP,Greenhouse gases,1994,7.891,low
+Spain,GHG,GHG_CAP,Greenhouse gases,1995,8.266,low
+Spain,GHG,GHG_CAP,Greenhouse gases,1996,8.049,low
+Spain,GHG,GHG_CAP,Greenhouse gases,1997,8.384,low
+Spain,GHG,GHG_CAP,Greenhouse gases,1998,8.599,low
+Spain,GHG,GHG_CAP,Greenhouse gases,1999,9.224,low
+Spain,GHG,GHG_CAP,Greenhouse gases,2000,9.523,low
+Spain,GHG,GHG_CAP,Greenhouse gases,2001,9.356,low
+Spain,GHG,GHG_CAP,Greenhouse gases,2002,9.658999999999999,low
+Spain,GHG,GHG_CAP,Greenhouse gases,2003,9.693,low
+Spain,GHG,GHG_CAP,Greenhouse gases,2004,9.902000000000001,low
+Spain,GHG,GHG_CAP,Greenhouse gases,2005,10.074,medium
+Spain,GHG,GHG_CAP,Greenhouse gases,2006,9.757,low
+Spain,GHG,GHG_CAP,Greenhouse gases,2007,9.845,low
+Spain,GHG,GHG_CAP,Greenhouse gases,2008,8.965,low
+Spain,GHG,GHG_CAP,Greenhouse gases,2009,8.016,low
+Spain,GHG,GHG_CAP,Greenhouse gases,2010,7.647,low
+Spain,GHG,GHG_CAP,Greenhouse gases,2011,7.608,low
+Spain,GHG,GHG_CAP,Greenhouse gases,2012,7.457000000000001,low
+Spain,GHG,GHG_CAP,Greenhouse gases,2013,6.919,low
+Spain,GHG,GHG_CAP,Greenhouse gases,2014,6.987,low
+Spain,GHG,GHG_CAP,Greenhouse gases,2015,7.247000000000001,low
+Spain,GHG,GHG_CAP,Greenhouse gases,2016,7.01,low
+Spain,GHG,GHG_CAP,Greenhouse gases,2017,7.295,low
+Spain,GHG,GHG_CAP,Greenhouse gases,2018,7.159,low
+Sweden,GHG,TOTAL,Greenhouse gases,1990,71184.925,high
+Sweden,GHG,TOTAL,Greenhouse gases,1991,71428.094,high
+Sweden,GHG,TOTAL,Greenhouse gases,1992,70970.224,high
+Sweden,GHG,TOTAL,Greenhouse gases,1993,71276.378,high
+Sweden,GHG,TOTAL,Greenhouse gases,1994,73788.738,high
+Sweden,GHG,TOTAL,Greenhouse gases,1995,73120.483,high
+Sweden,GHG,TOTAL,Greenhouse gases,1996,77087.954,high
+Sweden,GHG,TOTAL,Greenhouse gases,1997,72084.289,high
+Sweden,GHG,TOTAL,Greenhouse gases,1998,72549.443,high
+Sweden,GHG,TOTAL,Greenhouse gases,1999,69454.613,high
+Sweden,GHG,TOTAL,Greenhouse gases,2000,68114.648,high
+Sweden,GHG,TOTAL,Greenhouse gases,2001,68934.26299999999,high
+Sweden,GHG,TOTAL,Greenhouse gases,2002,69642.1,high
+Sweden,GHG,TOTAL,Greenhouse gases,2003,70017.224,high
+Sweden,GHG,TOTAL,Greenhouse gases,2004,69455.149,high
+Sweden,GHG,TOTAL,Greenhouse gases,2005,66624.03,high
+Sweden,GHG,TOTAL,Greenhouse gases,2006,66247.358,high
+Sweden,GHG,TOTAL,Greenhouse gases,2007,65129.16099999999,high
+Sweden,GHG,TOTAL,Greenhouse gases,2008,62753.432,high
+Sweden,GHG,TOTAL,Greenhouse gases,2009,58496.752,high
+Sweden,GHG,TOTAL,Greenhouse gases,2010,64467.307,high
+Sweden,GHG,TOTAL,Greenhouse gases,2011,60131.472,high
+Sweden,GHG,TOTAL,Greenhouse gases,2012,57294.301,high
+Sweden,GHG,TOTAL,Greenhouse gases,2013,55607.71,high
+Sweden,GHG,TOTAL,Greenhouse gases,2014,53846.362,high
+Sweden,GHG,TOTAL,Greenhouse gases,2015,53739.184,high
+Sweden,GHG,TOTAL,Greenhouse gases,2016,53285.935999999994,high
+Sweden,GHG,TOTAL,Greenhouse gases,2017,52715.03,high
+Sweden,GHG,TOTAL,Greenhouse gases,2018,51779.237,high
+Sweden,GHG,GHG_CAP,Greenhouse gases,1990,8.253,low
+Sweden,GHG,GHG_CAP,Greenhouse gases,1991,8.222999999999999,low
+Sweden,GHG,GHG_CAP,Greenhouse gases,1992,8.113999999999999,low
+Sweden,GHG,GHG_CAP,Greenhouse gases,1993,8.101,low
+Sweden,GHG,GHG_CAP,Greenhouse gases,1994,8.351,low
+Sweden,GHG,GHG_CAP,Greenhouse gases,1995,8.254,low
+Sweden,GHG,GHG_CAP,Greenhouse gases,1996,8.692,low
+Sweden,GHG,GHG_CAP,Greenhouse gases,1997,8.126,low
+Sweden,GHG,GHG_CAP,Greenhouse gases,1998,8.176,low
+Sweden,GHG,GHG_CAP,Greenhouse gases,1999,7.82,low
+Sweden,GHG,GHG_CAP,Greenhouse gases,2000,7.655,low
+Sweden,GHG,GHG_CAP,Greenhouse gases,2001,7.727,low
+Sweden,GHG,GHG_CAP,Greenhouse gases,2002,7.78,low
+Sweden,GHG,GHG_CAP,Greenhouse gases,2003,7.787999999999999,low
+Sweden,GHG,GHG_CAP,Greenhouse gases,2004,7.684,low
+Sweden,GHG,GHG_CAP,Greenhouse gases,2005,7.324,low
+Sweden,GHG,GHG_CAP,Greenhouse gases,2006,7.23,low
+Sweden,GHG,GHG_CAP,Greenhouse gases,2007,7.051,low
+Sweden,GHG,GHG_CAP,Greenhouse gases,2008,6.7379999999999995,low
+Sweden,GHG,GHG_CAP,Greenhouse gases,2009,6.23,low
+Sweden,GHG,GHG_CAP,Greenhouse gases,2010,6.81,low
+Sweden,GHG,GHG_CAP,Greenhouse gases,2011,6.301,low
+Sweden,GHG,GHG_CAP,Greenhouse gases,2012,5.957000000000001,low
+Sweden,GHG,GHG_CAP,Greenhouse gases,2013,5.737,low
+Sweden,GHG,GHG_CAP,Greenhouse gases,2014,5.513999999999999,low
+Sweden,GHG,GHG_CAP,Greenhouse gases,2015,5.4639999999999995,low
+Sweden,GHG,GHG_CAP,Greenhouse gases,2016,5.38,low
+Sweden,GHG,GHG_CAP,Greenhouse gases,2017,5.2860000000000005,low
+Sweden,GHG,GHG_CAP,Greenhouse gases,2018,5.159,low
+Switzerland,GHG,TOTAL,Greenhouse gases,1990,53778.897000000004,high
+Switzerland,GHG,TOTAL,Greenhouse gases,1991,55658.488,high
+Switzerland,GHG,TOTAL,Greenhouse gases,1992,55396.136,high
+Switzerland,GHG,TOTAL,Greenhouse gases,1993,52921.288,high
+Switzerland,GHG,TOTAL,Greenhouse gases,1994,51914.232,high
+Switzerland,GHG,TOTAL,Greenhouse gases,1995,52829.745,high
+Switzerland,GHG,TOTAL,Greenhouse gases,1996,53432.352,high
+Switzerland,GHG,TOTAL,Greenhouse gases,1997,52303.066,high
+Switzerland,GHG,TOTAL,Greenhouse gases,1998,53869.042,high
+Switzerland,GHG,TOTAL,Greenhouse gases,1999,53658.465,high
+Switzerland,GHG,TOTAL,Greenhouse gases,2000,53080.697,high
+Switzerland,GHG,TOTAL,Greenhouse gases,2001,54601.117,high
+Switzerland,GHG,TOTAL,Greenhouse gases,2002,53068.383,high
+Switzerland,GHG,TOTAL,Greenhouse gases,2003,54095.78,high
+Switzerland,GHG,TOTAL,Greenhouse gases,2004,54698.084,high
+Switzerland,GHG,TOTAL,Greenhouse gases,2005,55414.415,high
+Switzerland,GHG,TOTAL,Greenhouse gases,2006,55022.39599999999,high
+Switzerland,GHG,TOTAL,Greenhouse gases,2007,53159.34,high
+Switzerland,GHG,TOTAL,Greenhouse gases,2008,54524.829000000005,high
+Switzerland,GHG,TOTAL,Greenhouse gases,2009,53082.114,high
+Switzerland,GHG,TOTAL,Greenhouse gases,2010,54726.721,high
+Switzerland,GHG,TOTAL,Greenhouse gases,2011,50615.832,high
+Switzerland,GHG,TOTAL,Greenhouse gases,2012,52037.416,high
+Switzerland,GHG,TOTAL,Greenhouse gases,2013,52816.492,high
+Switzerland,GHG,TOTAL,Greenhouse gases,2014,48877.39,high
+Switzerland,GHG,TOTAL,Greenhouse gases,2015,48412.499,high
+Switzerland,GHG,TOTAL,Greenhouse gases,2016,48725.312000000005,high
+Switzerland,GHG,TOTAL,Greenhouse gases,2017,47873.185,high
+Switzerland,GHG,TOTAL,Greenhouse gases,2018,46332.507000000005,high
+Switzerland,GHG,GHG_CAP,Greenhouse gases,1990,8.084,low
+Switzerland,GHG,GHG_CAP,Greenhouse gases,1991,8.283999999999999,low
+Switzerland,GHG,GHG_CAP,Greenhouse gases,1992,8.155,low
+Switzerland,GHG,GHG_CAP,Greenhouse gases,1993,7.704,low
+Switzerland,GHG,GHG_CAP,Greenhouse gases,1994,7.482,low
+Switzerland,GHG,GHG_CAP,Greenhouse gases,1995,7.5520000000000005,low
+Switzerland,GHG,GHG_CAP,Greenhouse gases,1996,7.5920000000000005,low
+Switzerland,GHG,GHG_CAP,Greenhouse gases,1997,7.399,low
+Switzerland,GHG,GHG_CAP,Greenhouse gases,1998,7.596,low
+Switzerland,GHG,GHG_CAP,Greenhouse gases,1999,7.542000000000001,low
+Switzerland,GHG,GHG_CAP,Greenhouse gases,2000,7.43,low
+Switzerland,GHG,GHG_CAP,Greenhouse gases,2001,7.605,low
+Switzerland,GHG,GHG_CAP,Greenhouse gases,2002,7.35,low
+Switzerland,GHG,GHG_CAP,Greenhouse gases,2003,7.443,low
+Switzerland,GHG,GHG_CAP,Greenhouse gases,2004,7.468999999999999,low
+Switzerland,GHG,GHG_CAP,Greenhouse gases,2005,7.502000000000001,low
+Switzerland,GHG,GHG_CAP,Greenhouse gases,2006,7.377999999999999,low
+Switzerland,GHG,GHG_CAP,Greenhouse gases,2007,7.053,low
+Switzerland,GHG,GHG_CAP,Greenhouse gases,2008,7.153,low
+Switzerland,GHG,GHG_CAP,Greenhouse gases,2009,6.881,low
+Switzerland,GHG,GHG_CAP,Greenhouse gases,2010,7.007999999999999,low
+Switzerland,GHG,GHG_CAP,Greenhouse gases,2011,6.401,low
+Switzerland,GHG,GHG_CAP,Greenhouse gases,2012,6.497999999999999,low
+Switzerland,GHG,GHG_CAP,Greenhouse gases,2013,6.513,low
+Switzerland,GHG,GHG_CAP,Greenhouse gases,2014,5.956,low
+Switzerland,GHG,GHG_CAP,Greenhouse gases,2015,5.835,low
+Switzerland,GHG,GHG_CAP,Greenhouse gases,2016,5.815,low
+Switzerland,GHG,GHG_CAP,Greenhouse gases,2017,5.662000000000001,low
+Switzerland,GHG,GHG_CAP,Greenhouse gases,2018,5.435,low
+Turkey,GHG,TOTAL,Greenhouse gases,1990,219367.813,high
+Turkey,GHG,TOTAL,Greenhouse gases,1991,226756.072,high
+Turkey,GHG,TOTAL,Greenhouse gases,1992,232975.37600000002,high
+Turkey,GHG,TOTAL,Greenhouse gases,1993,240316.701,high
+Turkey,GHG,TOTAL,Greenhouse gases,1994,234287.667,high
+Turkey,GHG,TOTAL,Greenhouse gases,1995,247761.956,high
+Turkey,GHG,TOTAL,Greenhouse gases,1996,267396.686,high
+Turkey,GHG,TOTAL,Greenhouse gases,1997,278626.959,high
+Turkey,GHG,TOTAL,Greenhouse gases,1998,280231.00399999996,high
+Turkey,GHG,TOTAL,Greenhouse gases,1999,277650.216,high
+Turkey,GHG,TOTAL,Greenhouse gases,2000,298759.81899999996,high
+Turkey,GHG,TOTAL,Greenhouse gases,2001,280301.378,high
+Turkey,GHG,TOTAL,Greenhouse gases,2002,286003.42100000003,high
+Turkey,GHG,TOTAL,Greenhouse gases,2003,305260.925,high
+Turkey,GHG,TOTAL,Greenhouse gases,2004,314668.938,high
+Turkey,GHG,TOTAL,Greenhouse gases,2005,337139.73299999995,high
+Turkey,GHG,TOTAL,Greenhouse gases,2006,358291.53,high
+Turkey,GHG,TOTAL,Greenhouse gases,2007,391422.385,high
+Turkey,GHG,TOTAL,Greenhouse gases,2008,387590.13399999996,high
+Turkey,GHG,TOTAL,Greenhouse gases,2009,395595.99600000004,high
+Turkey,GHG,TOTAL,Greenhouse gases,2010,398882.583,high
+Turkey,GHG,TOTAL,Greenhouse gases,2011,427830.532,high
+Turkey,GHG,TOTAL,Greenhouse gases,2012,447254.811,high
+Turkey,GHG,TOTAL,Greenhouse gases,2013,439325.691,high
+Turkey,GHG,TOTAL,Greenhouse gases,2014,458368.968,high
+Turkey,GHG,TOTAL,Greenhouse gases,2015,472595.00899999996,high
+Turkey,GHG,TOTAL,Greenhouse gases,2016,497741.896,high
+Turkey,GHG,TOTAL,Greenhouse gases,2017,523752.84,high
+Turkey,GHG,TOTAL,Greenhouse gases,2018,520941.588,high
+Turkey,GHG,GHG_CAP,Greenhouse gases,1990,4.0,low
+Turkey,GHG,GHG_CAP,Greenhouse gases,1991,4.067,low
+Turkey,GHG,GHG_CAP,Greenhouse gases,1992,4.112,low
+Turkey,GHG,GHG_CAP,Greenhouse gases,1993,4.175,low
+Turkey,GHG,GHG_CAP,Greenhouse gases,1994,4.006,low
+Turkey,GHG,GHG_CAP,Greenhouse gases,1995,4.169,low
+Turkey,GHG,GHG_CAP,Greenhouse gases,1996,4.428999999999999,low
+Turkey,GHG,GHG_CAP,Greenhouse gases,1997,4.543,low
+Turkey,GHG,GHG_CAP,Greenhouse gases,1998,4.499,low
+Turkey,GHG,GHG_CAP,Greenhouse gases,1999,4.39,low
+Turkey,GHG,GHG_CAP,Greenhouse gases,2000,4.654,low
+Turkey,GHG,GHG_CAP,Greenhouse gases,2001,4.303,low
+Turkey,GHG,GHG_CAP,Greenhouse gases,2002,4.328,low
+Turkey,GHG,GHG_CAP,Greenhouse gases,2003,4.555,low
+Turkey,GHG,GHG_CAP,Greenhouse gases,2004,4.6339999999999995,low
+Turkey,GHG,GHG_CAP,Greenhouse gases,2005,4.9030000000000005,low
+Turkey,GHG,GHG_CAP,Greenhouse gases,2006,5.149,low
+Turkey,GHG,GHG_CAP,Greenhouse gases,2007,5.559,low
+Turkey,GHG,GHG_CAP,Greenhouse gases,2008,5.434,low
+Turkey,GHG,GHG_CAP,Greenhouse gases,2009,5.47,low
+Turkey,GHG,GHG_CAP,Greenhouse gases,2010,5.431,low
+Turkey,GHG,GHG_CAP,Greenhouse gases,2011,5.731,low
+Turkey,GHG,GHG_CAP,Greenhouse gases,2012,5.891,low
+Turkey,GHG,GHG_CAP,Greenhouse gases,2013,5.689,low
+Turkey,GHG,GHG_CAP,Greenhouse gases,2014,5.837000000000001,low
+Turkey,GHG,GHG_CAP,Greenhouse gases,2015,5.92,low
+Turkey,GHG,GHG_CAP,Greenhouse gases,2016,6.136,low
+Turkey,GHG,GHG_CAP,Greenhouse gases,2017,6.361000000000001,low
+Turkey,GHG,GHG_CAP,Greenhouse gases,2018,6.244,low
+United Kingdom,GHG,TOTAL,Greenhouse gases,1990,797812.0440000001,high
+United Kingdom,GHG,TOTAL,Greenhouse gases,1991,807236.0920000001,high
+United Kingdom,GHG,TOTAL,Greenhouse gases,1992,786435.906,high
+United Kingdom,GHG,TOTAL,Greenhouse gases,1993,767022.497,high
+United Kingdom,GHG,TOTAL,Greenhouse gases,1994,758171.0490000001,high
+United Kingdom,GHG,TOTAL,Greenhouse gases,1995,751691.005,high
+United Kingdom,GHG,TOTAL,Greenhouse gases,1996,773629.78,high
+United Kingdom,GHG,TOTAL,Greenhouse gases,1997,748416.322,high
+United Kingdom,GHG,TOTAL,Greenhouse gases,1998,747129.6590000001,high
+United Kingdom,GHG,TOTAL,Greenhouse gases,1999,716725.958,high
+United Kingdom,GHG,TOTAL,Greenhouse gases,2000,716279.71,high
+United Kingdom,GHG,TOTAL,Greenhouse gases,2001,719097.192,high
+United Kingdom,GHG,TOTAL,Greenhouse gases,2002,699596.359,high
+United Kingdom,GHG,TOTAL,Greenhouse gases,2003,706682.2309999999,high
+United Kingdom,GHG,TOTAL,Greenhouse gases,2004,703280.27,high
+United Kingdom,GHG,TOTAL,Greenhouse gases,2005,695430.66,high
+United Kingdom,GHG,TOTAL,Greenhouse gases,2006,688259.1690000001,high
+United Kingdom,GHG,TOTAL,Greenhouse gases,2007,676546.3309999999,high
+United Kingdom,GHG,TOTAL,Greenhouse gases,2008,656112.4739999999,high
+United Kingdom,GHG,TOTAL,Greenhouse gases,2009,600031.686,high
+United Kingdom,GHG,TOTAL,Greenhouse gases,2010,614493.219,high
+United Kingdom,GHG,TOTAL,Greenhouse gases,2011,567259.4870000001,high
+United Kingdom,GHG,TOTAL,Greenhouse gases,2012,583865.702,high
+United Kingdom,GHG,TOTAL,Greenhouse gases,2013,570218.676,high
+United Kingdom,GHG,TOTAL,Greenhouse gases,2014,529981.28,high
+United Kingdom,GHG,TOTAL,Greenhouse gases,2015,512121.422,high
+United Kingdom,GHG,TOTAL,Greenhouse gases,2016,486371.703,high
+United Kingdom,GHG,TOTAL,Greenhouse gases,2017,475259.765,high
+United Kingdom,GHG,TOTAL,Greenhouse gases,2018,465931.875,high
+United Kingdom,GHG,GHG_CAP,Greenhouse gases,1990,13.964,medium
+United Kingdom,GHG,GHG_CAP,Greenhouse gases,1991,14.09,medium
+United Kingdom,GHG,GHG_CAP,Greenhouse gases,1992,13.69,medium
+United Kingdom,GHG,GHG_CAP,Greenhouse gases,1993,13.315999999999999,medium
+United Kingdom,GHG,GHG_CAP,Greenhouse gases,1994,13.125,medium
+United Kingdom,GHG,GHG_CAP,Greenhouse gases,1995,12.975,medium
+United Kingdom,GHG,GHG_CAP,Greenhouse gases,1996,13.312000000000001,medium
+United Kingdom,GHG,GHG_CAP,Greenhouse gases,1997,12.835999999999999,medium
+United Kingdom,GHG,GHG_CAP,Greenhouse gases,1998,12.769,medium
+United Kingdom,GHG,GHG_CAP,Greenhouse gases,1999,12.207,medium
+United Kingdom,GHG,GHG_CAP,Greenhouse gases,2000,12.155999999999999,medium
+United Kingdom,GHG,GHG_CAP,Greenhouse gases,2001,12.162,medium
+United Kingdom,GHG,GHG_CAP,Greenhouse gases,2002,11.792,medium
+United Kingdom,GHG,GHG_CAP,Greenhouse gases,2003,11.865,medium
+United Kingdom,GHG,GHG_CAP,Greenhouse gases,2004,11.745999999999999,medium
+United Kingdom,GHG,GHG_CAP,Greenhouse gases,2005,11.535,medium
+United Kingdom,GHG,GHG_CAP,Greenhouse gases,2006,11.315999999999999,medium
+United Kingdom,GHG,GHG_CAP,Greenhouse gases,2007,11.009,medium
+United Kingdom,GHG,GHG_CAP,Greenhouse gases,2008,10.558,medium
+United Kingdom,GHG,GHG_CAP,Greenhouse gases,2009,9.55,low
+United Kingdom,GHG,GHG_CAP,Greenhouse gases,2010,9.683,low
+United Kingdom,GHG,GHG_CAP,Greenhouse gases,2011,8.86,low
+United Kingdom,GHG,GHG_CAP,Greenhouse gases,2012,9.049,low
+United Kingdom,GHG,GHG_CAP,Greenhouse gases,2013,8.775,low
+United Kingdom,GHG,GHG_CAP,Greenhouse gases,2014,8.101,low
+United Kingdom,GHG,GHG_CAP,Greenhouse gases,2015,7.776,low
+United Kingdom,GHG,GHG_CAP,Greenhouse gases,2016,7.336,low
+United Kingdom,GHG,GHG_CAP,Greenhouse gases,2017,7.122000000000001,low
+United Kingdom,GHG,GHG_CAP,Greenhouse gases,2018,6.94,low
+United States,GHG,TOTAL,Greenhouse gases,1990,6437000.131,high
+United States,GHG,TOTAL,Greenhouse gases,1991,6373259.703,high
+United States,GHG,TOTAL,Greenhouse gases,1992,6480086.5879999995,high
+United States,GHG,TOTAL,Greenhouse gases,1993,6596774.554,high
+United States,GHG,TOTAL,Greenhouse gases,1994,6685730.471,high
+United States,GHG,TOTAL,Greenhouse gases,1995,6771015.64,high
+United States,GHG,TOTAL,Greenhouse gases,1996,6974407.044,high
+United States,GHG,TOTAL,Greenhouse gases,1997,7028804.635,high
+United States,GHG,TOTAL,Greenhouse gases,1998,7077750.2639999995,high
+United States,GHG,TOTAL,Greenhouse gases,1999,7125608.984,high
+United States,GHG,TOTAL,Greenhouse gases,2000,7275396.969,high
+United States,GHG,TOTAL,Greenhouse gases,2001,7172475.076,high
+United States,GHG,TOTAL,Greenhouse gases,2002,7214460.602000001,high
+United States,GHG,TOTAL,Greenhouse gases,2003,7255112.41,high
+United States,GHG,TOTAL,Greenhouse gases,2004,7381668.683999999,high
+United States,GHG,TOTAL,Greenhouse gases,2005,7391771.13,high
+United States,GHG,TOTAL,Greenhouse gases,2006,7314388.891,high
+United States,GHG,TOTAL,Greenhouse gases,2007,7416454.469,high
+United States,GHG,TOTAL,Greenhouse gases,2008,7210129.302,high
+United States,GHG,TOTAL,Greenhouse gases,2009,6753906.086,high
+United States,GHG,TOTAL,Greenhouse gases,2010,6981613.045,high
+United States,GHG,TOTAL,Greenhouse gases,2011,6820533.469,high
+United States,GHG,TOTAL,Greenhouse gases,2012,6580674.816000001,high
+United States,GHG,TOTAL,Greenhouse gases,2013,6769551.029,high
+United States,GHG,TOTAL,Greenhouse gases,2014,6829016.655,high
+United States,GHG,TOTAL,Greenhouse gases,2015,6676371.427,high
+United States,GHG,TOTAL,Greenhouse gases,2016,6524080.437999999,high
+United States,GHG,TOTAL,Greenhouse gases,2017,6488234.64,high
+United States,GHG,TOTAL,Greenhouse gases,2018,6676649.617000001,high
+United States,GHG,GHG_CAP,Greenhouse gases,1990,25.289,high
+United States,GHG,GHG_CAP,Greenhouse gases,1991,24.8,high
+United States,GHG,GHG_CAP,Greenhouse gases,1992,24.968000000000004,high
+United States,GHG,GHG_CAP,Greenhouse gases,1993,25.155,high
+United States,GHG,GHG_CAP,Greenhouse gases,1994,25.214000000000002,high
+United States,GHG,GHG_CAP,Greenhouse gases,1995,25.233,high
+United States,GHG,GHG_CAP,Greenhouse gases,1996,25.668000000000003,high
+United States,GHG,GHG_CAP,Greenhouse gases,1997,25.543000000000003,high
+United States,GHG,GHG_CAP,Greenhouse gases,1998,25.409000000000002,high
+United States,GHG,GHG_CAP,Greenhouse gases,1999,25.294,high
+United States,GHG,GHG_CAP,Greenhouse gases,2000,25.563000000000002,high
+United States,GHG,GHG_CAP,Greenhouse gases,2001,24.967,high
+United States,GHG,GHG_CAP,Greenhouse gases,2002,24.893,high
+United States,GHG,GHG_CAP,Greenhouse gases,2003,24.816,high
+United States,GHG,GHG_CAP,Greenhouse gases,2004,25.023000000000003,high
+United States,GHG,GHG_CAP,Greenhouse gases,2005,24.825,high
+United States,GHG,GHG_CAP,Greenhouse gases,2006,24.331999999999997,high
+United States,GHG,GHG_CAP,Greenhouse gases,2007,24.438000000000002,high
+United States,GHG,GHG_CAP,Greenhouse gases,2008,23.539,high
+United States,GHG,GHG_CAP,Greenhouse gases,2009,21.855999999999998,high
+United States,GHG,GHG_CAP,Greenhouse gases,2010,22.406999999999996,high
+United States,GHG,GHG_CAP,Greenhouse gases,2011,21.718000000000004,high
+United States,GHG,GHG_CAP,Greenhouse gases,2012,20.799,high
+United States,GHG,GHG_CAP,Greenhouse gases,2013,21.243000000000002,high
+United States,GHG,GHG_CAP,Greenhouse gases,2014,21.281999999999996,high
+United States,GHG,GHG_CAP,Greenhouse gases,2015,20.669,high
+United States,GHG,GHG_CAP,Greenhouse gases,2016,20.069000000000003,high
+United States,GHG,GHG_CAP,Greenhouse gases,2017,19.836,high
+United States,GHG,GHG_CAP,Greenhouse gases,2018,20.29,high
+Chile,GHG,TOTAL,Greenhouse gases,1990,52015.932,high
+Chile,GHG,TOTAL,Greenhouse gases,1991,50681.026,high
+Chile,GHG,TOTAL,Greenhouse gases,1992,52578.967000000004,high
+Chile,GHG,TOTAL,Greenhouse gases,1993,55432.308,high
+Chile,GHG,TOTAL,Greenhouse gases,1994,58349.097,high
+Chile,GHG,TOTAL,Greenhouse gases,1995,61452.138,high
+Chile,GHG,TOTAL,Greenhouse gases,1996,67715.098,high
+Chile,GHG,TOTAL,Greenhouse gases,1997,75203.286,high
+Chile,GHG,TOTAL,Greenhouse gases,1998,76151.209,high
+Chile,GHG,TOTAL,Greenhouse gases,1999,79278.88900000001,high
+Chile,GHG,TOTAL,Greenhouse gases,2000,76586.655,high
+Chile,GHG,TOTAL,Greenhouse gases,2001,74731.673,high
+Chile,GHG,TOTAL,Greenhouse gases,2002,76179.429,high
+Chile,GHG,TOTAL,Greenhouse gases,2003,76956.024,high
+Chile,GHG,TOTAL,Greenhouse gases,2004,82608.99900000001,high
+Chile,GHG,TOTAL,Greenhouse gases,2005,84333.73,high
+Chile,GHG,TOTAL,Greenhouse gases,2006,85554.92300000001,high
+Chile,GHG,TOTAL,Greenhouse gases,2007,93655.963,high
+Chile,GHG,TOTAL,Greenhouse gases,2008,94261.927,high
+Chile,GHG,TOTAL,Greenhouse gases,2009,90886.579,high
+Chile,GHG,TOTAL,Greenhouse gases,2010,91862.257,high
+Chile,GHG,TOTAL,Greenhouse gases,2011,99861.19,high
+Chile,GHG,TOTAL,Greenhouse gases,2012,104492.36300000001,high
+Chile,GHG,TOTAL,Greenhouse gases,2013,104304.34800000001,high
+Chile,GHG,TOTAL,Greenhouse gases,2014,101473.89,high
+Chile,GHG,TOTAL,Greenhouse gases,2015,108243.31199999999,high
+Chile,GHG,TOTAL,Greenhouse gases,2016,111677.506,high
+Chile,GHG,GHG_CAP,Greenhouse gases,1990,3.918,low
+Chile,GHG,GHG_CAP,Greenhouse gases,1991,3.755,low
+Chile,GHG,GHG_CAP,Greenhouse gases,1992,3.832,low
+Chile,GHG,GHG_CAP,Greenhouse gases,1993,3.975,low
+Chile,GHG,GHG_CAP,Greenhouse gases,1994,4.119,low
+Chile,GHG,GHG_CAP,Greenhouse gases,1995,4.273,low
+Chile,GHG,GHG_CAP,Greenhouse gases,1996,4.6419999999999995,low
+Chile,GHG,GHG_CAP,Greenhouse gases,1997,5.086,low
+Chile,GHG,GHG_CAP,Greenhouse gases,1998,5.084,low
+Chile,GHG,GHG_CAP,Greenhouse gases,1999,5.229,low
+Chile,GHG,GHG_CAP,Greenhouse gases,2000,4.992,low
+Chile,GHG,GHG_CAP,Greenhouse gases,2001,4.816,low
+Chile,GHG,GHG_CAP,Greenhouse gases,2002,4.857,low
+Chile,GHG,GHG_CAP,Greenhouse gases,2003,4.855,low
+Chile,GHG,GHG_CAP,Greenhouse gases,2004,5.1579999999999995,low
+Chile,GHG,GHG_CAP,Greenhouse gases,2005,5.211,low
+Chile,GHG,GHG_CAP,Greenhouse gases,2006,5.231,low
+Chile,GHG,GHG_CAP,Greenhouse gases,2007,5.666,low
+Chile,GHG,GHG_CAP,Greenhouse gases,2008,5.642,low
+Chile,GHG,GHG_CAP,Greenhouse gases,2009,5.382000000000001,low
+Chile,GHG,GHG_CAP,Greenhouse gases,2010,5.3839999999999995,low
+Chile,GHG,GHG_CAP,Greenhouse gases,2011,5.795,low
+Chile,GHG,GHG_CAP,Greenhouse gases,2012,6.005,low
+Chile,GHG,GHG_CAP,Greenhouse gases,2013,5.936,low
+Chile,GHG,GHG_CAP,Greenhouse gases,2014,5.7139999999999995,low
+Chile,GHG,GHG_CAP,Greenhouse gases,2015,6.024,low
+Chile,GHG,GHG_CAP,Greenhouse gases,2016,6.132999999999999,low
+Estonia,GHG,TOTAL,Greenhouse gases,1990,40277.309,high
+Estonia,GHG,TOTAL,Greenhouse gases,1991,37156.123,high
+Estonia,GHG,TOTAL,Greenhouse gases,1992,27157.901,high
+Estonia,GHG,TOTAL,Greenhouse gases,1993,21206.138,high
+Estonia,GHG,TOTAL,Greenhouse gases,1994,21900.766,high
+Estonia,GHG,TOTAL,Greenhouse gases,1995,20109.1,high
+Estonia,GHG,TOTAL,Greenhouse gases,1996,20797.256,high
+Estonia,GHG,TOTAL,Greenhouse gases,1997,20423.992,high
+Estonia,GHG,TOTAL,Greenhouse gases,1998,18916.388,high
+Estonia,GHG,TOTAL,Greenhouse gases,1999,17585.332,high
+Estonia,GHG,TOTAL,Greenhouse gases,2000,17246.546000000002,high
+Estonia,GHG,TOTAL,Greenhouse gases,2001,17619.034,high
+Estonia,GHG,TOTAL,Greenhouse gases,2002,17067.925,high
+Estonia,GHG,TOTAL,Greenhouse gases,2003,18971.86,high
+Estonia,GHG,TOTAL,Greenhouse gases,2004,19305.701,high
+Estonia,GHG,TOTAL,Greenhouse gases,2005,19012.236,high
+Estonia,GHG,TOTAL,Greenhouse gases,2006,18295.805,high
+Estonia,GHG,TOTAL,Greenhouse gases,2007,22023.103,high
+Estonia,GHG,TOTAL,Greenhouse gases,2008,19872.666,high
+Estonia,GHG,TOTAL,Greenhouse gases,2009,16519.596,high
+Estonia,GHG,TOTAL,Greenhouse gases,2010,21019.056,high
+Estonia,GHG,TOTAL,Greenhouse gases,2011,21058.291,high
+Estonia,GHG,TOTAL,Greenhouse gases,2012,19966.946,high
+Estonia,GHG,TOTAL,Greenhouse gases,2013,21848.043999999998,high
+Estonia,GHG,TOTAL,Greenhouse gases,2014,21056.795,high
+Estonia,GHG,TOTAL,Greenhouse gases,2015,18109.744,high
+Estonia,GHG,TOTAL,Greenhouse gases,2016,19640.422,high
+Estonia,GHG,TOTAL,Greenhouse gases,2017,20923.49,high
+Estonia,GHG,TOTAL,Greenhouse gases,2018,19974.14,high
+Estonia,GHG,GHG_CAP,Greenhouse gases,1990,25.732,high
+Estonia,GHG,GHG_CAP,Greenhouse gases,1991,23.999000000000002,high
+Estonia,GHG,GHG_CAP,Greenhouse gases,1992,17.857,high
+Estonia,GHG,GHG_CAP,Greenhouse gases,1993,14.251,medium
+Estonia,GHG,GHG_CAP,Greenhouse gases,1994,15.03,medium
+Estonia,GHG,GHG_CAP,Greenhouse gases,1995,14.033,medium
+Estonia,GHG,GHG_CAP,Greenhouse gases,1996,14.669,medium
+Estonia,GHG,GHG_CAP,Greenhouse gases,1997,14.488,medium
+Estonia,GHG,GHG_CAP,Greenhouse gases,1998,13.450999999999999,medium
+Estonia,GHG,GHG_CAP,Greenhouse gases,1999,12.527000000000001,medium
+Estonia,GHG,GHG_CAP,Greenhouse gases,2000,12.327,medium
+Estonia,GHG,GHG_CAP,Greenhouse gases,2001,12.66,medium
+Estonia,GHG,GHG_CAP,Greenhouse gases,2002,12.344000000000001,medium
+Estonia,GHG,GHG_CAP,Greenhouse gases,2003,13.819,medium
+Estonia,GHG,GHG_CAP,Greenhouse gases,2004,14.158,medium
+Estonia,GHG,GHG_CAP,Greenhouse gases,2005,14.024000000000001,medium
+Estonia,GHG,GHG_CAP,Greenhouse gases,2006,13.559000000000001,medium
+Estonia,GHG,GHG_CAP,Greenhouse gases,2007,16.383,high
+Estonia,GHG,GHG_CAP,Greenhouse gases,2008,14.83,medium
+Estonia,GHG,GHG_CAP,Greenhouse gases,2009,12.364,medium
+Estonia,GHG,GHG_CAP,Greenhouse gases,2010,15.779000000000002,medium
+Estonia,GHG,GHG_CAP,Greenhouse gases,2011,15.860999999999999,medium
+Estonia,GHG,GHG_CAP,Greenhouse gases,2012,15.09,medium
+Estonia,GHG,GHG_CAP,Greenhouse gases,2013,16.563,high
+Estonia,GHG,GHG_CAP,Greenhouse gases,2014,15.997,medium
+Estonia,GHG,GHG_CAP,Greenhouse gases,2015,13.767999999999999,medium
+Estonia,GHG,GHG_CAP,Greenhouse gases,2016,14.919,medium
+Estonia,GHG,GHG_CAP,Greenhouse gases,2017,15.857999999999999,medium
+Estonia,GHG,GHG_CAP,Greenhouse gases,2018,15.099,medium
+Israel,GHG,TOTAL,Greenhouse gases,1996,57653.0,high
+Israel,GHG,TOTAL,Greenhouse gases,2000,67163.0,high
+Israel,GHG,TOTAL,Greenhouse gases,2003,71447.592,high
+Israel,GHG,TOTAL,Greenhouse gases,2004,71882.615,high
+Israel,GHG,TOTAL,Greenhouse gases,2005,72400.33099999999,high
+Israel,GHG,TOTAL,Greenhouse gases,2006,73781.328,high
+Israel,GHG,TOTAL,Greenhouse gases,2007,76930.178,high
+Israel,GHG,TOTAL,Greenhouse gases,2008,78435.197,high
+Israel,GHG,TOTAL,Greenhouse gases,2009,74568.173,high
+Israel,GHG,TOTAL,Greenhouse gases,2010,77235.616,high
+Israel,GHG,TOTAL,Greenhouse gases,2011,79187.523,high
+Israel,GHG,TOTAL,Greenhouse gases,2012,85028.104,high
+Israel,GHG,TOTAL,Greenhouse gases,2013,79568.917,high
+Israel,GHG,TOTAL,Greenhouse gases,2014,76957.357,high
+Israel,GHG,TOTAL,Greenhouse gases,2015,80600.538,high
+Israel,GHG,TOTAL,Greenhouse gases,2016,79935.036,high
+Israel,GHG,GHG_CAP,Greenhouse gases,1996,10.629000000000001,medium
+Israel,GHG,GHG_CAP,Greenhouse gases,2000,11.296,medium
+Israel,GHG,GHG_CAP,Greenhouse gases,2003,11.38,medium
+Israel,GHG,GHG_CAP,Greenhouse gases,2004,11.238,medium
+Israel,GHG,GHG_CAP,Greenhouse gases,2005,11.088,medium
+Israel,GHG,GHG_CAP,Greenhouse gases,2006,11.044,medium
+Israel,GHG,GHG_CAP,Greenhouse gases,2007,11.235,medium
+Israel,GHG,GHG_CAP,Greenhouse gases,2008,11.172,medium
+Israel,GHG,GHG_CAP,Greenhouse gases,2009,10.370999999999999,medium
+Israel,GHG,GHG_CAP,Greenhouse gases,2010,10.513,medium
+Israel,GHG,GHG_CAP,Greenhouse gases,2011,10.577,medium
+Israel,GHG,GHG_CAP,Greenhouse gases,2012,11.165999999999999,medium
+Israel,GHG,GHG_CAP,Greenhouse gases,2013,10.287,medium
+Israel,GHG,GHG_CAP,Greenhouse gases,2014,9.798,low
+Israel,GHG,GHG_CAP,Greenhouse gases,2015,10.102,medium
+Israel,GHG,GHG_CAP,Greenhouse gases,2016,9.857999999999999,low
+Russia,GHG,TOTAL,Greenhouse gases,1990,3187507.079,high
+Russia,GHG,TOTAL,Greenhouse gases,1991,3024887.55,high
+Russia,GHG,TOTAL,Greenhouse gases,1992,2537506.1569999997,high
+Russia,GHG,TOTAL,Greenhouse gases,1993,2399711.489,high
+Russia,GHG,TOTAL,Greenhouse gases,1994,2137226.565,high
+Russia,GHG,TOTAL,Greenhouse gases,1995,2084988.217,high
+Russia,GHG,TOTAL,Greenhouse gases,1996,2029941.372,high
+Russia,GHG,TOTAL,Greenhouse gases,1997,1912753.0680000002,high
+Russia,GHG,TOTAL,Greenhouse gases,1998,1879354.896,high
+Russia,GHG,TOTAL,Greenhouse gases,1999,1905174.1090000002,high
+Russia,GHG,TOTAL,Greenhouse gases,2000,1901067.271,high
+Russia,GHG,TOTAL,Greenhouse gases,2001,1942384.53,high
+Russia,GHG,TOTAL,Greenhouse gases,2002,1924360.1130000001,high
+Russia,GHG,TOTAL,Greenhouse gases,2003,1959432.504,high
+Russia,GHG,TOTAL,Greenhouse gases,2004,1974435.639,high
+Russia,GHG,TOTAL,Greenhouse gases,2005,1995073.023,high
+Russia,GHG,TOTAL,Greenhouse gases,2006,2057942.51,high
+Russia,GHG,TOTAL,Greenhouse gases,2007,2059557.096,high
+Russia,GHG,TOTAL,Greenhouse gases,2008,2098480.691,high
+Russia,GHG,TOTAL,Greenhouse gases,2009,1961217.41,high
+Russia,GHG,TOTAL,Greenhouse gases,2010,2057878.0180000002,high
+Russia,GHG,TOTAL,Greenhouse gases,2011,2119644.435,high
+Russia,GHG,TOTAL,Greenhouse gases,2012,2147996.1769999997,high
+Russia,GHG,TOTAL,Greenhouse gases,2013,2092550.405,high
+Russia,GHG,TOTAL,Greenhouse gases,2014,2094363.5359999998,high
+Russia,GHG,TOTAL,Greenhouse gases,2015,2094011.747,high
+Russia,GHG,TOTAL,Greenhouse gases,2016,2098138.5530000003,high
+Russia,GHG,TOTAL,Greenhouse gases,2017,2155270.607,high
+Russia,GHG,TOTAL,Greenhouse gases,2018,2220122.955,high
+Russia,GHG,GHG_CAP,Greenhouse gases,1990,21.538,high
+Russia,GHG,GHG_CAP,Greenhouse gases,1991,20.401,high
+Russia,GHG,GHG_CAP,Greenhouse gases,1992,17.102,high
+Russia,GHG,GHG_CAP,Greenhouse gases,1993,16.176,high
+Russia,GHG,GHG_CAP,Greenhouse gases,1994,14.419,medium
+Russia,GHG,GHG_CAP,Greenhouse gases,1995,14.085999999999999,medium
+Russia,GHG,GHG_CAP,Greenhouse gases,1996,13.741,medium
+Russia,GHG,GHG_CAP,Greenhouse gases,1997,12.98,medium
+Russia,GHG,GHG_CAP,Greenhouse gases,1998,12.792,medium
+Russia,GHG,GHG_CAP,Greenhouse gases,1999,13.013,medium
+Russia,GHG,GHG_CAP,Greenhouse gases,2000,13.036,medium
+Russia,GHG,GHG_CAP,Greenhouse gases,2001,13.376,medium
+Russia,GHG,GHG_CAP,Greenhouse gases,2002,13.307,medium
+Russia,GHG,GHG_CAP,Greenhouse gases,2003,13.6,medium
+Russia,GHG,GHG_CAP,Greenhouse gases,2004,13.743,medium
+Russia,GHG,GHG_CAP,Greenhouse gases,2005,13.912,medium
+Russia,GHG,GHG_CAP,Greenhouse gases,2006,14.364,medium
+Russia,GHG,GHG_CAP,Greenhouse gases,2007,14.377,medium
+Russia,GHG,GHG_CAP,Greenhouse gases,2008,14.640999999999998,medium
+Russia,GHG,GHG_CAP,Greenhouse gases,2009,13.669,medium
+Russia,GHG,GHG_CAP,Greenhouse gases,2010,14.32,medium
+Russia,GHG,GHG_CAP,Greenhouse gases,2011,14.72,medium
+Russia,GHG,GHG_CAP,Greenhouse gases,2012,14.883,medium
+Russia,GHG,GHG_CAP,Greenhouse gases,2013,14.465,medium
+Russia,GHG,GHG_CAP,Greenhouse gases,2014,14.445,medium
+Russia,GHG,GHG_CAP,Greenhouse gases,2015,14.414000000000001,medium
+Russia,GHG,GHG_CAP,Greenhouse gases,2016,14.417,medium
+Russia,GHG,GHG_CAP,Greenhouse gases,2017,14.789000000000001,medium
+Russia,GHG,GHG_CAP,Greenhouse gases,2018,15.22,medium
+Slovenia,GHG,TOTAL,Greenhouse gases,1990,18609.592,high
+Slovenia,GHG,TOTAL,Greenhouse gases,1991,17289.665,high
+Slovenia,GHG,TOTAL,Greenhouse gases,1992,17371.446,high
+Slovenia,GHG,TOTAL,Greenhouse gases,1993,17555.306,high
+Slovenia,GHG,TOTAL,Greenhouse gases,1994,17944.596999999998,high
+Slovenia,GHG,TOTAL,Greenhouse gases,1995,18634.262,high
+Slovenia,GHG,TOTAL,Greenhouse gases,1996,19281.688000000002,high
+Slovenia,GHG,TOTAL,Greenhouse gases,1997,19647.741,high
+Slovenia,GHG,TOTAL,Greenhouse gases,1998,19411.176,high
+Slovenia,GHG,TOTAL,Greenhouse gases,1999,18788.621,high
+Slovenia,GHG,TOTAL,Greenhouse gases,2000,19037.601000000002,high
+Slovenia,GHG,TOTAL,Greenhouse gases,2001,19952.641,high
+Slovenia,GHG,TOTAL,Greenhouse gases,2002,20121.414,high
+Slovenia,GHG,TOTAL,Greenhouse gases,2003,19844.104,high
+Slovenia,GHG,TOTAL,Greenhouse gases,2004,20156.015,high
+Slovenia,GHG,TOTAL,Greenhouse gases,2005,20456.751,high
+Slovenia,GHG,TOTAL,Greenhouse gases,2006,20625.255,high
+Slovenia,GHG,TOTAL,Greenhouse gases,2007,20789.284,high
+Slovenia,GHG,TOTAL,Greenhouse gases,2008,21514.461,high
+Slovenia,GHG,TOTAL,Greenhouse gases,2009,19530.104,high
+Slovenia,GHG,TOTAL,Greenhouse gases,2010,19555.215,high
+Slovenia,GHG,TOTAL,Greenhouse gases,2011,19565.613,high
+Slovenia,GHG,TOTAL,Greenhouse gases,2012,19004.84,high
+Slovenia,GHG,TOTAL,Greenhouse gases,2013,18307.644,high
+Slovenia,GHG,TOTAL,Greenhouse gases,2014,16575.012,high
+Slovenia,GHG,TOTAL,Greenhouse gases,2015,16750.902,high
+Slovenia,GHG,TOTAL,Greenhouse gases,2016,17607.613,high
+Slovenia,GHG,TOTAL,Greenhouse gases,2017,17366.764,high
+Slovenia,GHG,TOTAL,Greenhouse gases,2018,17502.138,high
+Slovenia,GHG,GHG_CAP,Greenhouse gases,1990,9.269,low
+Slovenia,GHG,GHG_CAP,Greenhouse gases,1991,8.622,low
+Slovenia,GHG,GHG_CAP,Greenhouse gases,1992,8.683,low
+Slovenia,GHG,GHG_CAP,Greenhouse gases,1993,8.798,low
+Slovenia,GHG,GHG_CAP,Greenhouse gases,1994,9.012,low
+Slovenia,GHG,GHG_CAP,Greenhouse gases,1995,9.371,low
+Slovenia,GHG,GHG_CAP,Greenhouse gases,1996,9.702,low
+Slovenia,GHG,GHG_CAP,Greenhouse gases,1997,9.886000000000001,low
+Slovenia,GHG,GHG_CAP,Greenhouse gases,1998,9.766,low
+Slovenia,GHG,GHG_CAP,Greenhouse gases,1999,9.452,low
+Slovenia,GHG,GHG_CAP,Greenhouse gases,2000,9.579,low
+Slovenia,GHG,GHG_CAP,Greenhouse gases,2001,10.04,medium
+Slovenia,GHG,GHG_CAP,Greenhouse gases,2002,10.122,medium
+Slovenia,GHG,GHG_CAP,Greenhouse gases,2003,9.971,low
+Slovenia,GHG,GHG_CAP,Greenhouse gases,2004,10.103,medium
+Slovenia,GHG,GHG_CAP,Greenhouse gases,2005,10.216000000000001,medium
+Slovenia,GHG,GHG_CAP,Greenhouse gases,2006,10.251,medium
+Slovenia,GHG,GHG_CAP,Greenhouse gases,2007,10.276,medium
+Slovenia,GHG,GHG_CAP,Greenhouse gases,2008,10.578,medium
+Slovenia,GHG,GHG_CAP,Greenhouse gases,2009,9.558,low
+Slovenia,GHG,GHG_CAP,Greenhouse gases,2010,9.533,low
+Slovenia,GHG,GHG_CAP,Greenhouse gases,2011,9.508,low
+Slovenia,GHG,GHG_CAP,Greenhouse gases,2012,9.212,low
+Slovenia,GHG,GHG_CAP,Greenhouse gases,2013,8.855,low
+Slovenia,GHG,GHG_CAP,Greenhouse gases,2014,8.003,low
+Slovenia,GHG,GHG_CAP,Greenhouse gases,2015,8.076,low
+Slovenia,GHG,GHG_CAP,Greenhouse gases,2016,8.48,low
+Slovenia,GHG,GHG_CAP,Greenhouse gases,2017,8.357999999999999,low
+Slovenia,GHG,GHG_CAP,Greenhouse gases,2018,8.42,low
+Lithuania,GHG,TOTAL,Greenhouse gases,1990,48016.431,high
+Lithuania,GHG,TOTAL,Greenhouse gases,1991,50014.695,high
+Lithuania,GHG,TOTAL,Greenhouse gases,1992,30804.472,high
+Lithuania,GHG,TOTAL,Greenhouse gases,1993,24733.053,high
+Lithuania,GHG,TOTAL,Greenhouse gases,1994,23313.273999999998,high
+Lithuania,GHG,TOTAL,Greenhouse gases,1995,22332.61,high
+Lithuania,GHG,TOTAL,Greenhouse gases,1996,23384.19,high
+Lithuania,GHG,TOTAL,Greenhouse gases,1997,22935.815,high
+Lithuania,GHG,TOTAL,Greenhouse gases,1998,23918.888,high
+Lithuania,GHG,TOTAL,Greenhouse gases,1999,21059.863999999998,high
+Lithuania,GHG,TOTAL,Greenhouse gases,2000,19523.176,high
+Lithuania,GHG,TOTAL,Greenhouse gases,2001,20317.59,high
+Lithuania,GHG,TOTAL,Greenhouse gases,2002,20680.248,high
+Lithuania,GHG,TOTAL,Greenhouse gases,2003,20844.975,high
+Lithuania,GHG,TOTAL,Greenhouse gases,2004,21702.405,high
+Lithuania,GHG,TOTAL,Greenhouse gases,2005,22801.833,high
+Lithuania,GHG,TOTAL,Greenhouse gases,2006,23095.697,high
+Lithuania,GHG,TOTAL,Greenhouse gases,2007,25282.975,high
+Lithuania,GHG,TOTAL,Greenhouse gases,2008,24376.275,high
+Lithuania,GHG,TOTAL,Greenhouse gases,2009,20068.467,high
+Lithuania,GHG,TOTAL,Greenhouse gases,2010,20887.595,high
+Lithuania,GHG,TOTAL,Greenhouse gases,2011,21462.693,high
+Lithuania,GHG,TOTAL,Greenhouse gases,2012,21396.477000000003,high
+Lithuania,GHG,TOTAL,Greenhouse gases,2013,20167.637,high
+Lithuania,GHG,TOTAL,Greenhouse gases,2014,20110.694,high
+Lithuania,GHG,TOTAL,Greenhouse gases,2015,20400.431,high
+Lithuania,GHG,TOTAL,Greenhouse gases,2016,20420.348,high
+Lithuania,GHG,TOTAL,Greenhouse gases,2017,20617.613999999998,high
+Lithuania,GHG,TOTAL,Greenhouse gases,2018,20266.828999999998,high
+Latvia,GHG,TOTAL,Greenhouse gases,1990,26288.572999999997,high
+Latvia,GHG,TOTAL,Greenhouse gases,1991,24408.851000000002,high
+Latvia,GHG,TOTAL,Greenhouse gases,1992,19652.619,high
+Latvia,GHG,TOTAL,Greenhouse gases,1993,16239.318000000001,high
+Latvia,GHG,TOTAL,Greenhouse gases,1994,14312.391000000001,high
+Latvia,GHG,TOTAL,Greenhouse gases,1995,12939.938999999998,high
+Latvia,GHG,TOTAL,Greenhouse gases,1996,12978.325,high
+Latvia,GHG,TOTAL,Greenhouse gases,1997,12418.469,high
+Latvia,GHG,TOTAL,Greenhouse gases,1998,11916.996000000001,high
+Latvia,GHG,TOTAL,Greenhouse gases,1999,11132.149,high
+Latvia,GHG,TOTAL,Greenhouse gases,2000,10510.983999999999,high
+Latvia,GHG,TOTAL,Greenhouse gases,2001,11087.901000000002,high
+Latvia,GHG,TOTAL,Greenhouse gases,2002,11059.945,high
+Latvia,GHG,TOTAL,Greenhouse gases,2003,11245.117,high
+Latvia,GHG,TOTAL,Greenhouse gases,2004,11220.3,high
+Latvia,GHG,TOTAL,Greenhouse gases,2005,11401.235,high
+Latvia,GHG,TOTAL,Greenhouse gases,2006,11887.893,high
+Latvia,GHG,TOTAL,Greenhouse gases,2007,12340.274,high
+Latvia,GHG,TOTAL,Greenhouse gases,2008,11869.85,high
+Latvia,GHG,TOTAL,Greenhouse gases,2009,11188.027,high
+Latvia,GHG,TOTAL,Greenhouse gases,2010,12261.651000000002,high
+Latvia,GHG,TOTAL,Greenhouse gases,2011,11475.002,high
+Latvia,GHG,TOTAL,Greenhouse gases,2012,11296.585,high
+Latvia,GHG,TOTAL,Greenhouse gases,2013,11225.737,high
+Latvia,GHG,TOTAL,Greenhouse gases,2014,11128.461000000001,high
+Latvia,GHG,TOTAL,Greenhouse gases,2015,11179.083999999999,high
+Latvia,GHG,TOTAL,Greenhouse gases,2016,11170.145,high
+Latvia,GHG,TOTAL,Greenhouse gases,2017,11216.829,high
+Latvia,GHG,TOTAL,Greenhouse gases,2018,11715.671999999999,high
+Brazil,GHG,TOTAL,Greenhouse gases,1990,573078.754,high
+Brazil,GHG,TOTAL,Greenhouse gases,1991,592144.0260000001,high
+Brazil,GHG,TOTAL,Greenhouse gases,1992,601634.457,high
+Brazil,GHG,TOTAL,Greenhouse gases,1993,614410.566,high
+Brazil,GHG,TOTAL,Greenhouse gases,1994,633105.119,high
+Brazil,GHG,TOTAL,Greenhouse gases,1995,660104.25,high
+Brazil,GHG,TOTAL,Greenhouse gases,1996,664669.231,high
+Brazil,GHG,TOTAL,Greenhouse gases,1997,689838.7740000001,high
+Brazil,GHG,TOTAL,Greenhouse gases,1998,709934.2420000001,high
+Brazil,GHG,TOTAL,Greenhouse gases,1999,729124.2609999999,high
+Brazil,GHG,TOTAL,Greenhouse gases,2000,756663.676,high
+Brazil,GHG,TOTAL,Greenhouse gases,2001,775840.127,high
+Brazil,GHG,TOTAL,Greenhouse gases,2002,791183.696,high
+Brazil,GHG,TOTAL,Greenhouse gases,2003,811625.765,high
+Brazil,GHG,TOTAL,Greenhouse gases,2004,846526.365,high
+Brazil,GHG,TOTAL,Greenhouse gases,2005,863894.872,high
+Brazil,GHG,TOTAL,Greenhouse gases,2006,881670.312,high
+Brazil,GHG,TOTAL,Greenhouse gases,2007,881781.7509999999,high
+Brazil,GHG,TOTAL,Greenhouse gases,2008,910097.944,high
+Brazil,GHG,TOTAL,Greenhouse gases,2009,890514.878,high
+Brazil,GHG,TOTAL,Greenhouse gases,2010,954324.6540000001,high
+Brazil,GHG,TOTAL,Greenhouse gases,2011,991691.0,high
+Brazil,GHG,TOTAL,Greenhouse gases,2012,1027739.0,high
+Brazil,GHG,GHG_CAP,Greenhouse gases,1990,3.8369999999999997,low
+Brazil,GHG,GHG_CAP,Greenhouse gases,1991,3.8960000000000004,low
+Brazil,GHG,GHG_CAP,Greenhouse gases,1992,3.892,low
+Brazil,GHG,GHG_CAP,Greenhouse gases,1993,3.91,low
+Brazil,GHG,GHG_CAP,Greenhouse gases,1994,3.964,low
+Brazil,GHG,GHG_CAP,Greenhouse gases,1995,4.067,low
+Brazil,GHG,GHG_CAP,Greenhouse gases,1996,4.03,low
+Brazil,GHG,GHG_CAP,Greenhouse gases,1997,4.117,low
+Brazil,GHG,GHG_CAP,Greenhouse gases,1998,4.172,low
+Brazil,GHG,GHG_CAP,Greenhouse gases,1999,4.22,low
+Brazil,GHG,GHG_CAP,Greenhouse gases,2000,4.317,low
+Brazil,GHG,GHG_CAP,Greenhouse gases,2001,4.365,low
+Brazil,GHG,GHG_CAP,Greenhouse gases,2002,4.3919999999999995,low
+Brazil,GHG,GHG_CAP,Greenhouse gases,2003,4.448,low
+Brazil,GHG,GHG_CAP,Greenhouse gases,2004,4.582,low
+Brazil,GHG,GHG_CAP,Greenhouse gases,2005,4.622,low
+Brazil,GHG,GHG_CAP,Greenhouse gases,2006,4.665,low
+Brazil,GHG,GHG_CAP,Greenhouse gases,2007,4.6160000000000005,low
+Brazil,GHG,GHG_CAP,Greenhouse gases,2008,4.716,low
+Brazil,GHG,GHG_CAP,Greenhouse gases,2009,4.569,low
+Brazil,GHG,GHG_CAP,Greenhouse gases,2010,4.849,low
+Brazil,GHG,GHG_CAP,Greenhouse gases,2011,4.9910000000000005,low
+Brazil,GHG,GHG_CAP,Greenhouse gases,2012,5.124,low
+China (People's Republic of),GHG,TOTAL,Greenhouse gases,1994,4057617.0,high
+China (People's Republic of),GHG,TOTAL,Greenhouse gases,2005,7465861.7,high
+China (People's Republic of),GHG,TOTAL,Greenhouse gases,2012,11895765.0,high
+China (People's Republic of),GHG,GHG_CAP,Greenhouse gases,1994,3.302,low
+China (People's Republic of),GHG,GHG_CAP,Greenhouse gases,2005,5.649,low
+China (People's Republic of),GHG,GHG_CAP,Greenhouse gases,2012,8.65,low
+Colombia,GHG,TOTAL,Greenhouse gases,1990,94040.615,high
+Colombia,GHG,TOTAL,Greenhouse gases,1991,97252.601,high
+Colombia,GHG,TOTAL,Greenhouse gases,1992,102161.065,high
+Colombia,GHG,TOTAL,Greenhouse gases,1993,103813.59,high
+Colombia,GHG,TOTAL,Greenhouse gases,1994,105140.36,high
+Colombia,GHG,TOTAL,Greenhouse gases,1995,106659.23199999999,high
+Colombia,GHG,TOTAL,Greenhouse gases,1996,109795.905,high
+Colombia,GHG,TOTAL,Greenhouse gases,1997,114194.849,high
+Colombia,GHG,TOTAL,Greenhouse gases,1998,113892.08300000001,high
+Colombia,GHG,TOTAL,Greenhouse gases,1999,108652.18,high
+Colombia,GHG,TOTAL,Greenhouse gases,2000,110795.2,high
+Colombia,GHG,TOTAL,Greenhouse gases,2001,109488.748,high
+Colombia,GHG,TOTAL,Greenhouse gases,2002,109966.454,high
+Colombia,GHG,TOTAL,Greenhouse gases,2003,113929.085,high
+Colombia,GHG,TOTAL,Greenhouse gases,2004,117271.11,high
+Colombia,GHG,TOTAL,Greenhouse gases,2005,122238.972,high
+Colombia,GHG,TOTAL,Greenhouse gases,2006,130651.1,high
+Colombia,GHG,TOTAL,Greenhouse gases,2007,131880.488,high
+Colombia,GHG,TOTAL,Greenhouse gases,2008,130025.616,high
+Colombia,GHG,TOTAL,Greenhouse gases,2009,137137.328,high
+Colombia,GHG,TOTAL,Greenhouse gases,2010,138247.793,high
+Colombia,GHG,TOTAL,Greenhouse gases,2011,133918.316,high
+Colombia,GHG,TOTAL,Greenhouse gases,2012,139838.47199999998,high
+Colombia,GHG,TOTAL,Greenhouse gases,2013,147802.851,high
+Colombia,GHG,TOTAL,Greenhouse gases,2014,150614.761,high
+Colombia,GHG,GHG_CAP,Greenhouse gases,1990,2.786,low
+Colombia,GHG,GHG_CAP,Greenhouse gases,1991,2.825,low
+Colombia,GHG,GHG_CAP,Greenhouse gases,1992,2.911,low
+Colombia,GHG,GHG_CAP,Greenhouse gases,1993,2.903,low
+Colombia,GHG,GHG_CAP,Greenhouse gases,1994,2.887,low
+Colombia,GHG,GHG_CAP,Greenhouse gases,1995,2.877,low
+Colombia,GHG,GHG_CAP,Greenhouse gases,1996,2.911,low
+Colombia,GHG,GHG_CAP,Greenhouse gases,1997,2.977,low
+Colombia,GHG,GHG_CAP,Greenhouse gases,1998,2.92,low
+Colombia,GHG,GHG_CAP,Greenhouse gases,1999,2.742,low
+Colombia,GHG,GHG_CAP,Greenhouse gases,2000,2.752,low
+Colombia,GHG,GHG_CAP,Greenhouse gases,2001,2.679,low
+Colombia,GHG,GHG_CAP,Greenhouse gases,2002,2.6510000000000002,low
+Colombia,GHG,GHG_CAP,Greenhouse gases,2003,2.708,low
+Colombia,GHG,GHG_CAP,Greenhouse gases,2004,2.75,low
+Colombia,GHG,GHG_CAP,Greenhouse gases,2005,2.83,low
+Colombia,GHG,GHG_CAP,Greenhouse gases,2006,2.987,low
+Colombia,GHG,GHG_CAP,Greenhouse gases,2007,2.98,low
+Colombia,GHG,GHG_CAP,Greenhouse gases,2008,2.906,low
+Colombia,GHG,GHG_CAP,Greenhouse gases,2009,3.032,low
+Colombia,GHG,GHG_CAP,Greenhouse gases,2010,3.028,low
+Colombia,GHG,GHG_CAP,Greenhouse gases,2011,2.906,low
+Colombia,GHG,GHG_CAP,Greenhouse gases,2012,3.008,low
+Colombia,GHG,GHG_CAP,Greenhouse gases,2013,3.147,low
+Colombia,GHG,GHG_CAP,Greenhouse gases,2014,3.1689999999999996,low
+Costa Rica,GHG,TOTAL,Greenhouse gases,2005,10878.07,high
+Costa Rica,GHG,TOTAL,Greenhouse gases,2010,12511.35,high
+Costa Rica,GHG,TOTAL,Greenhouse gases,2012,13257.36,high
+Costa Rica,GHG,GHG_CAP,Greenhouse gases,2005,2.5610000000000004,low
+Costa Rica,GHG,GHG_CAP,Greenhouse gases,2010,2.753,low
+Costa Rica,GHG,GHG_CAP,Greenhouse gases,2012,2.8489999999999998,low
+India,GHG,TOTAL,Greenhouse gases,1994,1214248.0,high
+India,GHG,TOTAL,Greenhouse gases,2000,1523766.56,high
+India,GHG,TOTAL,Greenhouse gases,2010,2100849.73,high
+India,GHG,GHG_CAP,Greenhouse gases,1994,1.2890000000000001,low
+India,GHG,GHG_CAP,Greenhouse gases,2000,1.4469999999999998,low
+India,GHG,GHG_CAP,Greenhouse gases,2010,1.7069999999999999,low
+Indonesia,GHG,TOTAL,Greenhouse gases,2000,502363.0,high
+Indonesia,GHG,TOTAL,Greenhouse gases,2001,537949.0,high
+Indonesia,GHG,TOTAL,Greenhouse gases,2002,545911.0,high
+Indonesia,GHG,TOTAL,Greenhouse gases,2003,559139.0,high
+Indonesia,GHG,TOTAL,Greenhouse gases,2004,583101.0,high
+Indonesia,GHG,TOTAL,Greenhouse gases,2005,590736.0,high
+Indonesia,GHG,TOTAL,Greenhouse gases,2006,610242.0,high
+Indonesia,GHG,TOTAL,Greenhouse gases,2007,607947.0,high
+Indonesia,GHG,TOTAL,Greenhouse gases,2008,629710.0,high
+Indonesia,GHG,TOTAL,Greenhouse gases,2009,628562.0,high
+Indonesia,GHG,TOTAL,Greenhouse gases,2010,685711.0,high
+Indonesia,GHG,TOTAL,Greenhouse gases,2011,726262.0,high
+Indonesia,GHG,TOTAL,Greenhouse gases,2012,757250.0,high
+Indonesia,GHG,TOTAL,Greenhouse gases,2013,796579.0,high
+Indonesia,GHG,TOTAL,Greenhouse gases,2014,864948.0,high
+Indonesia,GHG,TOTAL,Greenhouse gases,2015,907334.0,high
+Indonesia,GHG,TOTAL,Greenhouse gases,2016,883224.0,high
+Indonesia,GHG,GHG_CAP,Greenhouse gases,2000,2.375,low
+Indonesia,GHG,GHG_CAP,Greenhouse gases,2001,2.508,low
+Indonesia,GHG,GHG_CAP,Greenhouse gases,2002,2.51,low
+Indonesia,GHG,GHG_CAP,Greenhouse gases,2003,2.535,low
+Indonesia,GHG,GHG_CAP,Greenhouse gases,2004,2.608,low
+Indonesia,GHG,GHG_CAP,Greenhouse gases,2005,2.6060000000000003,low
+Indonesia,GHG,GHG_CAP,Greenhouse gases,2006,2.655,low
+Indonesia,GHG,GHG_CAP,Greenhouse gases,2007,2.609,low
+Indonesia,GHG,GHG_CAP,Greenhouse gases,2008,2.6660000000000004,low
+Indonesia,GHG,GHG_CAP,Greenhouse gases,2009,2.6260000000000003,low
+Indonesia,GHG,GHG_CAP,Greenhouse gases,2010,2.827,low
+Indonesia,GHG,GHG_CAP,Greenhouse gases,2011,2.9560000000000004,low
+Indonesia,GHG,GHG_CAP,Greenhouse gases,2012,3.043,low
+Indonesia,GHG,GHG_CAP,Greenhouse gases,2013,3.161,low
+Indonesia,GHG,GHG_CAP,Greenhouse gases,2014,3.39,low
+Indonesia,GHG,GHG_CAP,Greenhouse gases,2015,3.515,low
+Indonesia,GHG,GHG_CAP,Greenhouse gases,2016,3.383,low
+Latvia,GHG,GHG_CAP,Greenhouse gases,1990,9.866,low
+Latvia,GHG,GHG_CAP,Greenhouse gases,1991,9.214,low
+Latvia,GHG,GHG_CAP,Greenhouse gases,1992,7.5,low
+Latvia,GHG,GHG_CAP,Greenhouse gases,1993,6.287999999999999,low
+Latvia,GHG,GHG_CAP,Greenhouse gases,1994,5.627000000000001,low
+Latvia,GHG,GHG_CAP,Greenhouse gases,1995,5.1579999999999995,low
+Latvia,GHG,GHG_CAP,Greenhouse gases,1996,5.236000000000001,low
+Latvia,GHG,GHG_CAP,Greenhouse gases,1997,5.062,low
+Latvia,GHG,GHG_CAP,Greenhouse gases,1998,4.9030000000000005,low
+Latvia,GHG,GHG_CAP,Greenhouse gases,1999,4.623,low
+Latvia,GHG,GHG_CAP,Greenhouse gases,2000,4.409,low
+Latvia,GHG,GHG_CAP,Greenhouse gases,2001,4.7010000000000005,low
+Latvia,GHG,GHG_CAP,Greenhouse gases,2002,4.742,low
+Latvia,GHG,GHG_CAP,Greenhouse gases,2003,4.877,low
+Latvia,GHG,GHG_CAP,Greenhouse gases,2004,4.9239999999999995,low
+Latvia,GHG,GHG_CAP,Greenhouse gases,2005,5.063,low
+Latvia,GHG,GHG_CAP,Greenhouse gases,2006,5.343,low
+Latvia,GHG,GHG_CAP,Greenhouse gases,2007,5.614,low
+Latvia,GHG,GHG_CAP,Greenhouse gases,2008,5.4670000000000005,low
+Latvia,GHG,GHG_CAP,Greenhouse gases,2009,5.216,low
+Latvia,GHG,GHG_CAP,Greenhouse gases,2010,5.787000000000001,low
+Latvia,GHG,GHG_CAP,Greenhouse gases,2011,5.481,low
+Latvia,GHG,GHG_CAP,Greenhouse gases,2012,5.46,low
+Latvia,GHG,GHG_CAP,Greenhouse gases,2013,5.489,low
+Latvia,GHG,GHG_CAP,Greenhouse gases,2014,5.506,low
+Latvia,GHG,GHG_CAP,Greenhouse gases,2015,5.596,low
+Latvia,GHG,GHG_CAP,Greenhouse gases,2016,5.6579999999999995,low
+Latvia,GHG,GHG_CAP,Greenhouse gases,2017,5.749,low
+Latvia,GHG,GHG_CAP,Greenhouse gases,2018,6.075,low
+Lithuania,GHG,GHG_CAP,Greenhouse gases,1990,12.991,medium
+Lithuania,GHG,GHG_CAP,Greenhouse gases,1991,13.527000000000001,medium
+Lithuania,GHG,GHG_CAP,Greenhouse gases,1992,8.352,low
+Lithuania,GHG,GHG_CAP,Greenhouse gases,1993,6.7379999999999995,low
+Lithuania,GHG,GHG_CAP,Greenhouse gases,1994,6.388999999999999,low
+Lithuania,GHG,GHG_CAP,Greenhouse gases,1995,6.1579999999999995,low
+Lithuania,GHG,GHG_CAP,Greenhouse gases,1996,6.489,low
+Lithuania,GHG,GHG_CAP,Greenhouse gases,1997,6.407,low
+Lithuania,GHG,GHG_CAP,Greenhouse gases,1998,6.728,low
+Lithuania,GHG,GHG_CAP,Greenhouse gases,1999,5.9670000000000005,low
+Lithuania,GHG,GHG_CAP,Greenhouse gases,2000,5.575,low
+Lithuania,GHG,GHG_CAP,Greenhouse gases,2001,5.849,low
+Lithuania,GHG,GHG_CAP,Greenhouse gases,2002,6.002999999999999,low
+Lithuania,GHG,GHG_CAP,Greenhouse gases,2003,6.105,low
+Lithuania,GHG,GHG_CAP,Greenhouse gases,2004,6.419,low
+Lithuania,GHG,GHG_CAP,Greenhouse gases,2005,6.818,low
+Lithuania,GHG,GHG_CAP,Greenhouse gases,2006,6.992000000000001,low
+Lithuania,GHG,GHG_CAP,Greenhouse gases,2007,7.757999999999999,low
+Lithuania,GHG,GHG_CAP,Greenhouse gases,2008,7.587000000000001,low
+Lithuania,GHG,GHG_CAP,Greenhouse gases,2009,6.336,low
+Lithuania,GHG,GHG_CAP,Greenhouse gases,2010,6.687,low
+Lithuania,GHG,GHG_CAP,Greenhouse gases,2011,6.961,low
+Lithuania,GHG,GHG_CAP,Greenhouse gases,2012,7.025,low
+Lithuania,GHG,GHG_CAP,Greenhouse gases,2013,6.702999999999999,low
+Lithuania,GHG,GHG_CAP,Greenhouse gases,2014,6.768,low
+Lithuania,GHG,GHG_CAP,Greenhouse gases,2015,6.957999999999999,low
+Lithuania,GHG,GHG_CAP,Greenhouse gases,2016,7.067,low
+Lithuania,GHG,GHG_CAP,Greenhouse gases,2017,7.246,low
+Lithuania,GHG,GHG_CAP,Greenhouse gases,2018,7.235,low
+South Africa,GHG,TOTAL,Greenhouse gases,1990,347349.4,high
+South Africa,GHG,TOTAL,Greenhouse gases,1994,379837.2,high
+South Africa,GHG,GHG_CAP,Greenhouse gases,1990,9.248,low
+South Africa,GHG,GHG_CAP,Greenhouse gases,1994,9.215,low
+Argentina,GHG,TOTAL,Greenhouse gases,1990,220240.771,high
+Argentina,GHG,TOTAL,Greenhouse gases,1991,230413.75600000002,high
+Argentina,GHG,TOTAL,Greenhouse gases,1992,234122.379,high
+Argentina,GHG,TOTAL,Greenhouse gases,1993,239560.142,high
+Argentina,GHG,TOTAL,Greenhouse gases,1994,243598.693,high
+Argentina,GHG,TOTAL,Greenhouse gases,1995,244499.37300000002,high
+Argentina,GHG,TOTAL,Greenhouse gases,1996,256463.932,high
+Argentina,GHG,TOTAL,Greenhouse gases,1997,258303.62,high
+Argentina,GHG,TOTAL,Greenhouse gases,1998,262725.063,high
+Argentina,GHG,TOTAL,Greenhouse gases,1999,264637.841,high
+Argentina,GHG,TOTAL,Greenhouse gases,2000,280308.98600000003,high
+Argentina,GHG,TOTAL,Greenhouse gases,2001,276902.595,high
+Argentina,GHG,TOTAL,Greenhouse gases,2002,269315.644,high
+Argentina,GHG,TOTAL,Greenhouse gases,2003,286381.632,high
+Argentina,GHG,TOTAL,Greenhouse gases,2004,298167.359,high
+Argentina,GHG,TOTAL,Greenhouse gases,2005,307492.666,high
+Argentina,GHG,TOTAL,Greenhouse gases,2006,321462.033,high
+Argentina,GHG,TOTAL,Greenhouse gases,2007,335854.126,high
+Argentina,GHG,TOTAL,Greenhouse gases,2008,331802.165,high
+Argentina,GHG,TOTAL,Greenhouse gases,2009,322554.23,high
+Argentina,GHG,TOTAL,Greenhouse gases,2010,300695.19,high
+Argentina,GHG,TOTAL,Greenhouse gases,2011,310314.526,high
+Argentina,GHG,TOTAL,Greenhouse gases,2012,310670.24199999997,high
+Argentina,GHG,TOTAL,Greenhouse gases,2013,321011.892,high
+Argentina,GHG,TOTAL,Greenhouse gases,2014,322554.61199999996,high
+Argentina,GHG,GHG_CAP,Greenhouse gases,1990,6.729,low
+Argentina,GHG,GHG_CAP,Greenhouse gases,1991,6.941,low
+Argentina,GHG,GHG_CAP,Greenhouse gases,1992,6.957000000000001,low
+Argentina,GHG,GHG_CAP,Greenhouse gases,1993,7.023,low
+Argentina,GHG,GHG_CAP,Greenhouse gases,1994,7.0489999999999995,low
+Argentina,GHG,GHG_CAP,Greenhouse gases,1995,6.987,low
+Argentina,GHG,GHG_CAP,Greenhouse gases,1996,7.2410000000000005,low
+Argentina,GHG,GHG_CAP,Greenhouse gases,1997,7.207999999999999,low
+Argentina,GHG,GHG_CAP,Greenhouse gases,1998,7.249,low
+Argentina,GHG,GHG_CAP,Greenhouse gases,1999,7.221,low
+Argentina,GHG,GHG_CAP,Greenhouse gases,2000,7.564,low
+Argentina,GHG,GHG_CAP,Greenhouse gases,2001,7.39,low
+Argentina,GHG,GHG_CAP,Greenhouse gases,2002,7.108,low
+Argentina,GHG,GHG_CAP,Greenhouse gases,2003,7.475,low
+Argentina,GHG,GHG_CAP,Greenhouse gases,2004,7.699,low
+Argentina,GHG,GHG_CAP,Greenhouse gases,2005,7.855,low
+Argentina,GHG,GHG_CAP,Greenhouse gases,2006,8.126,low
+Argentina,GHG,GHG_CAP,Greenhouse gases,2007,8.402999999999999,low
+Argentina,GHG,GHG_CAP,Greenhouse gases,2008,8.217,low
+Argentina,GHG,GHG_CAP,Greenhouse gases,2009,7.906000000000001,low
+Argentina,GHG,GHG_CAP,Greenhouse gases,2010,7.294,low
+Argentina,GHG,GHG_CAP,Greenhouse gases,2011,7.449,low
+Argentina,GHG,GHG_CAP,Greenhouse gases,2012,7.38,low
+Argentina,GHG,GHG_CAP,Greenhouse gases,2013,7.546,low
+Argentina,GHG,GHG_CAP,Greenhouse gases,2014,7.504,low
